@@ -172,7 +172,7 @@
         'llp-designated-member' : "LLP Designated Member"
         'cic-manager' : "CIC Manager"
         'receiver-and-manager' : "Receiver and Manager"
-        'judicial-factor' : "Judical Factor"
+        'judicial-factor' : "Judicial Factor"
     filing_type:
          'change-registered-office-address' : "(AD01) Change of Registered Office Address"
     filing_status:
