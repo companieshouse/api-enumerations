@@ -1,0 +1,13 @@
+---
+filing_history:
+    category:
+        0 : "accounts"
+        1 : "return"
+        2 : "officer"
+        3 : "address"
+        4 : "mortgage"
+        5 : "liquidation"
+        6 : "incorporation"
+        7 : "capital"
+        8 : "change-of-name"
+        9 : "miscellaneous"
