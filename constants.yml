@@ -201,7 +201,7 @@
          'petitioned-on' : "Petition date"
          'concluded-winding-up-on' : "Conclusion of winding up"
          'due-to-be-dissolved-on' : "Due to be dissolved on"
-         'dissolved-on' :           "Dissolved on"
+         'dissolved-on' : "Dissolved on"
          'administration-started-on' : "Administration started"
          'administration-ended-on' : "Administration ended"
          'administration-discharged-on' : "Administration discharged"
