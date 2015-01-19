@@ -182,8 +182,6 @@
          'processing' : 'Processing'
          'accepted' : 'Accepted'
          'rejected' : 'Rejected'
-    form_type:
-         '10401' : "(AD01) Change of Registered Office Address"
     insolvency_case_type:
          'compulsory-liquidation' : "Compulsory liquidation"
          'in-administration' : "In administration"
