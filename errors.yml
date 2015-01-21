@@ -3,6 +3,7 @@ errors:
     service:
         'access-denied' : "Access denied"
         'company-profile-not-found' : "Company profile not found"
+        'company-insolvencies-not-found' : "Company insolvencies not found"
         'invalid-authorization-header' : "Invalid authorization header"
         'invalid-http-method' : "Access denied for HTTP method {method}"
         'invalid-client-id' : "Invalid client ID"
