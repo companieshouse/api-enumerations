@@ -880,3 +880,5 @@ description:
     'dissolved-compulsory-strike-off-suspended' : "**Compulsory strike-off action has been suspended**"
     'no-description-available' : 'No description available'
     'particulars-of-a-mortgage-charge' : 'Particulars of a mortgage charge'
+    'default-companies-house-registered-office-address-applied': "**Registered office address changed** to {default_address} on {change_date}"
+    'order-of-court-registered-office-address-change': "**Registered office address changed** from {old_address} to {new_address} by order of the court on {change_date}"
