@@ -21,6 +21,13 @@ particularDesc:
     'charged-property-or-undertaking-description' : "Description of property or undertaking"
     'brief-description' : "Brief description"
 
+particularFlags:
+    'contains_fixed_charge' : 'Contains fixed charge'
+    'contains_floating_charge' : 'Contains floating charge'
+    'floating_charge_covers_all' : 'Floating charge covers all the property or undertaking of the company'
+    'contains_negative_pledge' : 'Contains negative pledge'
+    'chargor_acting_as_bare_trustee' : 'Chargor acting as a bare trustee for the property'
+
 securedDetailsDesc:
     'amount-secured' : "Amount secured"
     'obligations-secured' : "Obligations secured"
