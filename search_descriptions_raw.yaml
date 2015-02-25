@@ -201,3 +201,4 @@ search_description:
     'northern-ireland-converted-closed' : "**{company_number}** - Converted/Closed on {date:date_of_ceaseation}"
     'converted-or-closed-converted-closed' : "**{company_number}** - Converted/Closed on {date:date_of_ceaseation}"
     'converted-or-closed-dissolved' : "**{company_number}** - Dissolved on {date:date_of_ceaseation}"
+    'converted-or-closed-liquidation' : "**{company_number}** - Converted/Closed on {date:date_of_ceaseation} - **Liquidation**"
