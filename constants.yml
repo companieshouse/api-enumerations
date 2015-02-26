@@ -1435,5 +1435,5 @@
     notes:
          'scottish-insolvency-info' : "The law requires some Scottish company and LLP insolvency documents be filed with the Accountant in Bankruptcy (AIB). Find further details at [[AIB's register of insolvent companies]](http://roi.aib.gov.uk/ROI/)"
     cessation_label_for_status:
-        'dissolved' : "Date of dissolution"
-        'converted-closed' : "Date of closure"
+        'dissolved' : "Dissolved on"
+        'converted-closed' : "Closed on"
