@@ -279,7 +279,7 @@ description:
     'liquidation-all-statement-of-concurrence' : "**Statement of concurrence**"
     'liquidation-in-adminstration-deemed-proposal-scotland' : "**Statement of adminstrator's deemed proposal**"
     'mortgage-create-with-deed-with-charles-court-order-extend-with-charge-number-charge-creation-date' : "**Registration of charge with Charles court order to extend.** Charge code {charge_number}, created on {charge_creation_date}"
-    'mortgage-create-with-deed-with-charge-number-charge-creation-date' : "**Registration of charge.** Charge code {charge_number}, created on {charge_creation_date}"
+    'mortgage-create-with-deed-with-charge-number-charge-creation-date' : "**Registration of charge** {charge_number}, created on {charge_creation_date}"
     'mortgage-create-with-deed-with-charge-number' : "**Registration of charge** {charge_number}"
     'mortgage-create-with-deed' : "**Registration of charge**"
     'mortgage-acquire-with-deed-with-charles-court-order-extend-with-charge-number-charge-acquisition-date' : "**Registration of acquisition with Charles court order to extend.** Charge code {charge_number}, acquired on {property_acquired_date}"
