@@ -360,7 +360,7 @@ description:
     'mortgage-release-cease-charge-limited-liability-partnership' : "**Statement of release or cease  from charge**"
     'mortgage-trustee-acting-as-trustee-with-charge-number-limited-liability-partnership' : "**Statement of company acting as a trustee** on charge {charge_number}"
     'mortgage-trustee-acting-as-trustee-limited-liability-partnership' : "**Statement of company acting as a trustee**"
-    'mortgage-alter-post-to-charge-with-charge-number-limited-liability-partnership' : "**Alteration to a charge {charge_number}**, created on {charge_creation_date}"
+    'mortgage-alter-post-to-charge-with-charge-number-limited-liability-partnership' : "**Alteration to a charge** {charge_number}, created on {charge_creation_date}"
     'mortgage-alter-post-to-charge-limited-liability-partnership' : "**Alteration to a charge**, created on {charge_creation_date}"
     'mortgage-create-without-deed-with-charles-court-order-extend-with-charge-number-charge-creation-date-limited-liability-partnership' : "**Registration of charge with Charles court order to extend.** Charge code {charge_number}, created on {charge_creation_date} without deed"
     'mortgage-create-without-deed-with-court-order-extend-charge-number-charge-creation-date-limited-liability-partnership' : "**Registration of charge with court order to extend.** Charge code {charge_number}, created on {charge_creation_date} without deed"
