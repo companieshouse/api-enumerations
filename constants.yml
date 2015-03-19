@@ -1301,7 +1301,7 @@
          '73110' : "Advertising agencies"
          '73120' : "Media representation services"
          '73200' : "Market research and public opinion polling"
-         '74100' : "specialised design activities"
+         '74100' : "Specialised design activities"
          '74201' : "Portrait photographic activities"
          '74202' : "Other specialist photography"
          '74203' : "Film processing"
@@ -1435,5 +1435,5 @@
     notes:
          'scottish-insolvency-info' : "The law requires some Scottish company and LLP insolvency documents be filed with the Accountant in Bankruptcy (AIB). Find further details at [[AIB's register of insolvent companies]](http://roi.aib.gov.uk/ROI/)"
     cessation_label_for_status:
-        'dissolved' : "Date of dissolution"
-        'converted-closed' : "Date of closure"
+        'dissolved' : "Dissolved on"
+        'converted-closed' : "Closed on"
