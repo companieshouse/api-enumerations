@@ -137,7 +137,7 @@ filing_type:
     'liquidation-cease-to-act-receiver' : "Notice of ceasing to act as a receiver or manager (RM02)"
     'liquidation-cease-to-act-receiver-pre-2006-companies-act' : "Notice of ceasing to act as a receiver or manager (LQ02)"
     'liquidation-cease-to-act-receiver-limited-liability-partnership' : "Notice of ceasing to act as a receiver or manager (LLRM02)"
-    'liquidation-cease-to-act-receiver' : "Notice of ceasing to act as a receiver or manager (405(2))"
+    'liquidation-cease-to-act-receiver' : "Notice of ceasing to act as a receiver or manager (405 (2))"
     'liquidation-ceasing-to-act-receiver-scotland' : "Notice of ceasing to act as a receiver or manager (3 Scot)"
     'create-charge-northern-ireland-pre-2006-companies-act-form-402' : "Registration of a charge (402 NI)"
     'create-charge-northern-ireland-pre-2006-companies-act-form-402DF' : "Registration of a charge (402DF NI )"
