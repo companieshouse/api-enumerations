@@ -39,6 +39,7 @@ alterationsDesc:
     'alterations-prohibitions' : "Description of the prohibitions"
 
 filing_type:
+    'create-charge' : "Registration of a charge"
     'create-charge-with-deed-with-charles-court-order' : "Registration of a charge with Charles court order to extend (MR01)"
     'create-charge-with-deed-with-court-order' : "Registration of a charge with court order to extend (MR01)"
     'create-charge-with-deed' : "Registration of a charge (MR01)"
