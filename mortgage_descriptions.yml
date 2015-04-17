@@ -3,17 +3,17 @@ classificationDesc:
     'nature-of-charge' : "Nature of the charge"
 
 status:
-    'not-satisfied' : "Outstanding"
+    'outstanding' : "Outstanding"
     'fully-satisfied' : "Satisfied"
     'part-satisfied' : "Partially satisfied"
     'satisfied' : "Satisfied"
 
 assetsCeasedReleased:
-    'property-ceased-to-belong' : "All of the property or undertaking no longer forms part of charge"
+    'property-ceased-to-belong' : "All of the property or undertaking no longer forms part of the charge"
     'part-property-release-and-ceased-to-belong' : "Part of the property or undertaking has been released and no longer forms part of the charge"
-    'part-property-released' : "Part of the property or undertaking no longer forms part of charge"
-    'part-property-ceased-to-belong' : "Part of the property or undertaking has been released from charge"
-    'whole-property-released' : "All of the property or undertaking has been released from charge"
+    'part-property-released' : "Part of the property or undertaking no longer forms part of the charge"
+    'part-property-ceased-to-belong' : "Part of the property or undertaking has been released from the charge"
+    'whole-property-released' : "All of the property or undertaking has been released from the charge"
     'multiple-filings' : "Multiple changes to the property or undertaking..."
     'whole-property-released-and-ceased-to-belong' : "All of the property or undertaking has been released and no longer forms part of the charge"
 
