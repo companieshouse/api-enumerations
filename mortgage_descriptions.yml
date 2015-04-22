@@ -11,8 +11,8 @@ status:
 assetsCeasedReleased:
     'property-ceased-to-belong' : "All of the property or undertaking no longer forms part of the charge"
     'part-property-release-and-ceased-to-belong' : "Part of the property or undertaking has been released and no longer forms part of the charge"
-    'part-property-released' : "Part of the property or undertaking no longer forms part of the charge"
-    'part-property-ceased-to-belong' : "Part of the property or undertaking has been released from the charge"
+    'part-property-released' : "Part of the property or undertaking has been released from the charge"
+    'part-property-ceased-to-belong' : "Part of the property or undertaking no longer forms part of the charge"
     'whole-property-released' : "All of the property or undertaking has been released from the charge"
     'multiple-filings' : "Multiple filings relating to the property or undertaking"
     'whole-property-released-and-ceased-to-belong' : "All of the property or undertaking has been released and no longer forms part of the charge"
