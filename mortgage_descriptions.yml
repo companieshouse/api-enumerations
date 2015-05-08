@@ -8,7 +8,7 @@ status:
     'part-satisfied' : "Partially satisfied"
     'satisfied' : "Satisfied"
 
-assetsCeasedReleased:
+assets-ceased-released:
     'property-ceased-to-belong' : "All of the property or undertaking no longer forms part of the charge"
     'part-property-release-and-ceased-to-belong' : "Part of the property or undertaking has been released and no longer forms part of the charge"
     'part-property-released' : "Part of the property or undertaking has been released from the charge"
@@ -17,24 +17,24 @@ assetsCeasedReleased:
     'multiple-filings' : "Multiple filings relating to the property or undertaking"
     'whole-property-released-and-ceased-to-belong' : "All of the property or undertaking has been released and no longer forms part of the charge"
 
-particularDesc:
+particular-description:
     'short-particulars' : "Short particulars"
     'charged-property-description' : "Description of property charged"
     'charged-property-or-undertaking-description' : "Description of property or undertaking"
     'brief-description' : "Brief description"
 
-particularFlags:
+particular-flags:
     'contains_fixed_charge' : 'Contains fixed charge'
     'contains_floating_charge' : 'Contains floating charge'
     'floating_charge_covers_all' : 'Floating charge covers all the property or undertaking of the company'
     'contains_negative_pledge' : 'Contains negative pledge'
     'chargor_acting_as_bare_trustee' : 'Chargor acting as a bare trustee for the property'
 
-securedDetailsDesc:
+secured-details-description:
     'amount-secured' : "Amount secured"
     'obligations-secured' : "Obligations secured"
 
-alterationsDesc:
+alterations-description:
     'alterations-order' : "Description of the alterations to order"
     'alterations-prohibitions' : "Description of the prohibitions"
 
