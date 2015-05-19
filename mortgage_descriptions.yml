@@ -102,6 +102,7 @@ filing_type:
     'create-charge-scotland-pre-april-2013' : "Registration of a charge (MG01s)"
     'create-charge-pre-april-2013-limited-liability-partnership' : "Registration of a charge (LLMG01)"
     'create-charge-pre-2006-companies-act' : "Registration of a charge (395)"
+    'create-charge-pre-2006-companies-act-limited-liability-partnership' : "Registration of a charge (LLP395)"
     'create-charge-scotland-pre-2006-companies-act' : "Registration of a charge (410)"
     'charge-satisfaction-pre-april-2013' : "Statement of satisfaction of a charge in full or part (MG02)"
     'charge-satisfaction-scotland-pre-april-2013' : "Statement of satisfaction of a charge in full or part (MG02s)"
