@@ -1,4 +1,7 @@
 ---
+    identification_type:
+        'non-eea' : 'Non European Economic Area'
+        'eea' : 'European Economic Area'
     jurisdiction:
         'england-wales' : "England/Wales"
         'wales' : "Wales "
