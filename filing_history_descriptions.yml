@@ -736,6 +736,7 @@ description:
     'memorandum-articles' : "**Memorandum and Articles of Association**"
     're-registration-memorandum-articles' : "**Re-registration** of Memorandum and Articles"
     'model-articles-adopted' : "**Model articles adopted**"
+    'model-articles-adopted-amended-provisions' : "**Model articles adopted (Amended Provisions)**"
     'incorporation-company' : "**Incorporation**"
     'incorporation-company-with-type-date' : "**Incorporation** of a {company_type} on {incorporation_date}"
     'incorporation-community-interest-company-with-date' : "**Incorporation** of a Community Interest Company on {incorporation_date}"
