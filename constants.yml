@@ -17,7 +17,7 @@
         'ltd' : "Private limited Company"
         'plc' : "Public limited Company"
         'old-public-company' : "Old public company"
-        'private-limited-guarant-nsc-limited-exemption' : "Private company limited by guarantee without share capital use of 'Limited' exemption"
+        'private-limited-guarant-nsc-limited-exemption' : "Private Limited Company by guarantee without share capital use of 'Limited' exemption"
         'limited-partnership' : "Limited partnership"
         'private-limited-guarant-nsc' : "Private company limited by guarantee without share capital"
         'converted-or-closed' : "Converted/closed company"
