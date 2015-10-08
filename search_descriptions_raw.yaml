@@ -9,3 +9,6 @@ company_search_description:
     'insolvency-proceedings' : "Insolvency Proceedings"
     'liquidation' : "Liquidation"
     'administration' : "In Administration"
+officer_search_description:
+    'appointment-count' : "Total number of appointments {appointment_count}"
+    'born-on' : "Born {month-year:date_of_birth}"
