@@ -512,6 +512,7 @@ description:
     'gazette-dissolved-compulsary' : "**Final Gazette** dissolved via compulsory strike-off"
     'gazette-dissolved-compulsory' : "**Final Gazette** dissolved via compulsory strike-off"
     'miscellaneous' : "Miscellaneous"
+    'application-to-court-to-cancel-bearer-shares' : "**Application to court to cancel bearer shares**"
     'court-order' : "**Court order**"
     'bona-vacantia-company' : "**Bona Vacantia disclaimer**"
     'bona-vacantia-limited-liability-partnership' : "**Bona Vacantia disclaimer**"
