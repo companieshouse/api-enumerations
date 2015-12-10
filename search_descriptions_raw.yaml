@@ -12,3 +12,5 @@ company_search_description:
 officer_search_description:
     'appointment-count' : "Total number of appointments {appointment_count}"
     'born-on' : "Born {month-year:date_of_birth}"
+disqualified_officer_search_description:
+    'born-on' : "Born on {date:date_of_birth}"
