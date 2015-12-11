@@ -1,8 +1,8 @@
 ---
   description:
     'conviction-of-indictable-offence' : "Disqualification on conviction of indictable offence"
-    'persistent-breaches-of-companies-leglislation' : "Disqualification for persistent breaches of companies legislation"
-    'fraud-etc-in-winding-up' : "Disqualification in fraud etc, in winding up"
+    'persistent-breaches-of-companies-legislation' : "Disqualification for persistent breaches of companies legislation"
+    'fraud-etc-in-winding-up' : "Disqualification for fraud etc, in winding up"
     'summary-conviction' : "Disqualification on summary conviction"
     'court-to-disqualify-unfit-directors-of-insolvent-companies' : "Duty of court to disqualify unfit directors of insolvent companies"
     'order-or-undertaking-and-reporting-provisions' : "Disqualification order or undertaking; and reporting provisions"
@@ -12,7 +12,7 @@
     'competition-undertakings' : "Disqualification for competition undertakings"
     'participation-in-wrongful-trading' : "Participation in wrongful trading"
     'conviction-of-offence-punishable-on-indictment-or-conviction-on-indictment-or-summary-conviction' : "Disqualification on conviction of offence punishable only on indictment or either on conviction on indictment or on summary conviction"
-    'persistent-default-under-companies-legislation' : "Disqualification for persistent default under companies leglislation"
+    'persistent-default-under-companies-legislation' : "Disqualification for persistent default under companies legislation"
     'summary-conviction-of-offence' : "Disqualification on summary conviction of offence"
     'high-court-to-disqualify-unfit-directors-of-insolvent-companies' : "Duty of High Court to disqualify unfit directors of insolvent companies"
     'competition-disqualification-order' : "Competition Disqualification Order"
