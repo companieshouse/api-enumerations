@@ -876,5 +876,5 @@ description:
     'order-of-court-registered-office-address-change': "**Registered office address changed** on {change_date} by order of court from {old_address} to {new_address}"
     'order-of-court-registered-office-address-change-def': "**Registered office address changed** on {change_date} by order of court to {new_address}"
     'court-upheld-registrars-decision-on-registered-office-address': "**Court upheld the registrar's decision** to use Companies House default address as the registered office address"
-    'notification-of-a-person-with-significant-control' : "**Notification** of {psc_name} as a Person with Significant Control on {notification_date}"
-    'change-to-a-person-with-significant-control' : "**Change** of details for {psc_name} as a Person with Significant Control on {change_date}"
+    'notification-of-a-person-with-significant-control' : "**Notification** of {psc_name} as a person with significant control on {notification_date}"
+    'change-to-a-person-with-significant-control' : "**Change** of details for {psc_name} as a person with significant control on {change_date}"
