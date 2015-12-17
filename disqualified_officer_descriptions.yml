@@ -23,6 +23,12 @@
     'undertaking-from-person-instructing-unfit-director-other-cases' : "Disqualification undertaking from person instructing unfit director: other cases"
     'undertaking-instead-of-order-under-article-11a' : "Disqualification undertaking instead of an order under Article 11A"
     'undertaking-instead-of-order-under-article-11d' : "Disqualification undertaking instead of an order under Article 11D"
+    'order-disqualifying-a-person-instructing-an-unfit-director-of-an-insolvent-company' : "Order disqualifying a person instructing an unfit director of an insolvent company"
+    'order-disqualifying-a-person-instructing-an-unfit-director' : "Order disqualifying a person instructing an unfit director"
+    'undertaking-disqualifying-a-person-instructing-an-unfit-director-of-an-insolvent-company' : "Disqualification undertaking disqualifying a person instructing an unfit director"
+    'undertaking-disqualifying-a-person-instructing-an-unfit-director' : "Disqualification undertaking disqualifying a person instructing an unfit director"
+    'undertaking-instead-of-order-under-article-11a' : "Disqualification undertaking instead of an order under Article 11A"
+    'undertaking-instead-of-order-under-article-11d' : "Disqualification undertaking instead of an order under Article 11D"
   disqualification_act_acronyms:
     'company-directors-disqualification-act-1986' : "Company Directors Disqualification Act 1986"
     'company-directors-disqualification-northern-ireland-order-2002' : "Company Directors Disqualification (Northern Ireland) Order 2002"
