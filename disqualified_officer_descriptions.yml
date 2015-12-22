@@ -1,5 +1,5 @@
 ---
-  description:
+  description_identifier:
     'conviction-of-indictable-offence' : "Disqualification on conviction of indictable offence"
     'persistent-breaches-of-companies-legislation' : "Disqualification for persistent breaches of companies legislation"
     'fraud-etc-in-winding-up' : "Disqualification for fraud etc, in winding up"
@@ -29,6 +29,9 @@
     'undertaking-disqualifying-a-person-instructing-an-unfit-director' : "Disqualification undertaking disqualifying a person instructing an unfit director"
     'undertaking-instead-of-order-under-article-11a' : "Disqualification undertaking instead of an order under Article 11A"
     'undertaking-instead-of-order-under-article-11d' : "Disqualification undertaking instead of an order under Article 11D"
-  disqualification_act_acronyms:
+  act:
     'company-directors-disqualification-act-1986' : "Company Directors Disqualification Act 1986"
     'company-directors-disqualification-northern-ireland-order-2002' : "Company Directors Disqualification (Northern Ireland) Order 2002"
+  disqualification_type:
+    'court-order' : "Court order"
+    'undertaking' : "Undertaking"
