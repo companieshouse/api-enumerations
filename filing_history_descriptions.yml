@@ -883,6 +883,7 @@ description:
     'elect-to-keep-the-secretaries-register-information-on-the-public-register' : "**Elect** to keep the secretaries register information on the public register"
     'elect-to-keep-the-persons-with-significant-control-register-information-on-the-public-register' : "**Elect** to keep the persons' with significant control register information on the public register"
     'elect-to-keep-the-members-register-information-on-the-public-register' : "**Elect** to keep the members' register information on the public register"
+    'update-to-the-members-register-information-on-the-public-register' : "*Update* to the members' register information on the public register"
     'withdrawal-of-the-directors-register-information-from-the-public-register' : "**Withdrawal** of the directors' register information from the public register"
     'withdrawal-of-the-directors-residential-address-register-information-from-the-public-register' : "**Withdrawal** of the directors' residential address register information from the public register"
     'withdrawal-of-the-secretaries-register-information-from-the-public-register' : "**Withdrawal** of the secretaries register information from the public register"
