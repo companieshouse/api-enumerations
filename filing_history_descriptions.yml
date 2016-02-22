@@ -924,5 +924,5 @@ description:
     'second-filing-cessation-of-a-person-with-significant-control-limited-liability-partnership' : "**Second filing** for the cessation of {psc_name} as a person with significant control"
     'second-filing-notification-of-a-person-with-significant-control-statement-limited-liability-partnership' : "**Second filing** for the notification of a person with significant control statement"
     'second-filing-withdrawal-of-a-person-with-significant-control-statement-limited-liability-partnership' : "**Second filing** for the withdrawal of a person with significant control statement"
-    'second-filing-capital-cancellation-treasury-shares-with-date-treasury-capital-figure' : "**Second filing** of cancellation of treasury shares. Treasury capital:"
     'second-filing-capital-cancellation-treasury-shares-with-date-currency-capital-figure' : "**Second filing** of statement of capital on {date}"
+    'second-filing-capital-cancellation-treasury-shares-with-date-treasury-capital-figure' : "**Second filing** of cancellation of treasury shares. Treasury capital:"
