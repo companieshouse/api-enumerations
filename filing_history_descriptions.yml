@@ -943,7 +943,7 @@ description:
     'second-filing-capital-alter-shares-consolidation-reconversion' : "**Second filing** of consolidation and re-conversion of shares on {date}"
     'second-filing-capital-alter-shares-subdivision-reconversion-statement-of-capital' : "**Second filing** of sub-division and re-conversion of shares. Statement of capital on {date}"
     'second-filing-capital-alter-shares-subdivision-reconversion' : "**Second filing** of sub-division and re-conversion of shares on {date}"
-    'second-filing-capital-alter-shares' : "**Second filing** to alter Share Capital:"
+    'second-filing-capital-alter-shares' : "**Second filing** of notice of consolidation, sub-division, redemption of shares or re-conversion of stock into shares"
     'second-filing-capital-cancellation-shares' : "**Second filing** of cancellation of shares. Statement of capital on {date}"
     'second-filing-capital-cancellation-shares-by-plc' : "**Second filing** of cancellation of shares by a PLC. Statement of capital on {date}"
     'second-filing-capital-redomination-of-shares' : "**Second filing** of redenomination of shares. Statement of capital {date}"
