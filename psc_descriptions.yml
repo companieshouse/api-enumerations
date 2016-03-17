@@ -83,3 +83,6 @@ statement_description:
     'psc-contacted-but-no-response' : "The company has given a notice under section 790D of the Act which has not been complied with"
     'psc-has-failed-to-confirm-changed-details' : "{linked_psc_name} has failed to comply with a notice given by the company under section 790E of the Act"
     'restrictions-notice-issued-to-psc' : "The company has issued a restrictions notice under paragraph 1 of Schedule 1B to the Act"
+
+super_secure_description:
+    'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force under regulations under section 790ZG in relation to this company"
