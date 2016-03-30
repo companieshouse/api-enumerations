@@ -64,6 +64,7 @@ company_type:
     'unregistered-company' : "Unregistered company"
     'other' : "Other company type"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
+    'uk-establishment' : "UK establishment company"
 company_birth_type:
     'private-unlimited' : "Incorporated on"
     'ltd' : "Incorporated on"
@@ -76,7 +77,7 @@ company_birth_type:
     'private-unlimited-nsc' : "Incorporated on"
     'private-limited-shares-section-30-exemption' : "Incorporated on"
     'assurance-company' : "Registered on"
-    'oversea-company' : "Registered on"
+    'oversea-company' : "First UK establishment opened on"
     'eeig' : "Registered on"
     'icvc-securities' : "Incorporated on"
     'icvc-warrant' : "Incorporated on"
@@ -90,6 +91,7 @@ company_birth_type:
     'unregistered-company' : "Formed on"
     'other' : "Incorporated on"
     'european-public-limited-liability-company-se' : "Formed on"
+    'uk-establishment' : "Opened on"
 proof_status:
     'paper' : "PAPER"
     'electronic' : "ELECTRONIC"
