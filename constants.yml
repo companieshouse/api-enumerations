@@ -107,6 +107,8 @@ company_status:
     'voluntary-arrangement' : "Voluntary Arrangement"
     'insolvency-proceedings' : "Insolvency Proceedings"
     'administration' : "In Administration"
+    'open' : "Open"
+    'closed' : "Closed"
 company_status_detail:
     'active' : ""
     'dissolved' : ""
