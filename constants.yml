@@ -119,13 +119,12 @@ company_status_detail:
     'transformed-to-se' : "Transformed to SE"
     'converted-to-plc' : "Converted to PLC"
 overseas_account_type:
-    'accounting-requi-ements-of-originating-country-apply' : "Accounting requirements of originating country apply"
-    'accounting-requirements-of-originating-country-do-not-apply': "Accounting requirements of originating country do not apply"
+    'accounting-requirements-of-originating-country-apply' : "Accounting requirements of originating country apply"
+    'accounting-requirements-of-originating-country-do-not-apply': "Accounting requirements of originating country do not apply
 overseas_account_status:
     'accounts-publication-date-supplied-by-company' : "Accounts publication date supplied by company"
     'accounting-publication-date-does-not-need-to-be-supplied-by-company' : "Accounts publication date does not need to be supplied by company"
-    'accounting-reference-date-allocated-by-companies-House' : "Accounting reference date allocated by Companies House"
-    'accounting-reference-date-allocated-by-companies-House' : "Accounting reference date allocated by Companies House"
+    'accounting-reference-date-allocated-by-companies-house' : "Accounting reference date allocated by Companies House"
 account_type:
     'null' : "Null"
     'full' : "Full"
