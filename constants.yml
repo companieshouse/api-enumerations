@@ -120,7 +120,7 @@ company_status_detail:
     'converted-to-plc' : "Converted to PLC"
 overseas_account_type:
     'accounting-requirements-of-originating-country-apply' : "Accounting requirements of originating country apply"
-    'accounting-requirements-of-originating-country-do-not-apply': "Accounting requirements of originating country do not apply
+    'accounting-requirements-of-originating-country-do-not-apply': "Accounting requirements of originating country do not apply"
 overseas_account_status:
     'accounts-publication-date-supplied-by-company' : "Accounts publication date supplied by company"
     'accounting-publication-date-does-not-need-to-be-supplied-by-company' : "Accounts publication date does not need to be supplied by company"
