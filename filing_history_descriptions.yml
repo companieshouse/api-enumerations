@@ -866,7 +866,7 @@ description:
     'capital-statement-capital-company-with-date-currency-figure' : "**Statement of capital** on {date}"
     'capital-statement-capital-company' : "**Statement of capital**"
     'capital-directors-statement-auditors-report' : "**Directors statement and auditors report.** Out of capital"
-    'change-company-details-by-uk-establishment-overseas-company' : "**Details changed** for a UK Establishment" - {change_details}"
+    'change-company-details-by-uk-establishment-overseas-company' : "**Details changed** for a UK Establishment - {change_details}"
     'change-company-details-by-uk-establishment-overseas-company-with-change-details' : "**Details changed** for a UK establishment - {branch_number}, {change_address}"
     'change-company-details-overseas-company-with-change-details': "**Details changed** for an overseas company - {change address}"
     'change-company-details-overseas-company' : "**Details changed** for an overseas company"
