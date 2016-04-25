@@ -716,13 +716,9 @@ description:
     'dissolution-withdrawal-application-strike-off-company' : "**Withdraw the company strike off application**"
     'dissolution-application-strike-off-limited-liability-partnership' : "**Application to strike the limited liability partnership off the register**"
     'dissolution-withdrawal-application-strike-off-limited-liability-partnership' : "**Withdraw the strike off application**"
-<<<<<<< Updated upstream
     'dissolution-closure-of-uk-establishment': "**Closure** of UK establishment {branch_number} on {close_date}"
     'dissolution-closure-of-uk-establishment-and-overseas-company': "**Closure** of UK establishment {branch_number} and overseas company {company_number} on {close_date}"
     'dissolution-closure-overseas-company' : "**Closure of a UK establishment** {change_details}"
-=======
-    'dissolution-closure-overseas-company' : "**Closure of a UK Establishment** of an overseas company"
->>>>>>> Stashed changes
     'dissolution-termination-overseas-company' : "**Termination of overseas company** insolvency proceedings"
     'dissolution-voluntary-strike-off-discontinued' : "**Voluntary strike-off action has been discontinued**"
     'dissolution-voluntary-strike-off-suspended' : "**Voluntary strike-off action has been suspended**"
