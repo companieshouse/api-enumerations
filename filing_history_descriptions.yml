@@ -618,7 +618,7 @@ description:
     'appoint-person-secretary-overseas-company' : "**Appointment** of {officer_name} as a secretary"
     'appoint-corporate-secretary-overseas-company-with-appointment-date' : "**Appointment** of {officer_name} as a secretary on {appointment_date}"
     'appoint-corporate-secretary-overseas-company' : "**Appointment** of {officer_name} as a secretary"
-    'appoint-person-authorised-represent-overseas-company-with-appointment-date' : "**Appointment** of {officer_name} as a permanent representative of a UK establishment on {appointment_date}."
+    'appoint-person-authorised-represent-overseas-company-with-appointment-date' : "**Appointment** of {officer_name} as a permanent representative of a UK establishment **{branch_number}** on {change_date}."
     'appoint-person-authorised-represent-overseas-company' : "**Appointment** {change_details}"
     'appoint-judicial-factor-overseas-company-with-appointment-date' : "**Appointment** of {officer_name} as a judicial factor on {appointment_date}"
     'appoint-judicial-factor-overseas-company' : "**Appointment** of a judicial factor"
