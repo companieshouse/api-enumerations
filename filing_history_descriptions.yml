@@ -721,7 +721,7 @@ description:
     'dissolution-withdrawal-application-strike-off-limited-liability-partnership' : "**Withdraw the strike off application**"
     'dissolution-closure-of-uk-establishment': "**Closure** of UK establishment(s) **{branch_number}** on {close_date}"
     'dissolution-closure-of-uk-establishment-and-overseas-company': "**Closure** of UK establishment(s) **{branch_number}** and overseas company **{company_number}** on {close_date}"
-    'dissolution-closure-overseas-company' : "**Closure** of a UK establishment(s) {change_details}"
+    'dissolution-closure-overseas-company' : "**Closure** of UK establishment(s) {change_details}"
     'dissolution-termination-overseas-company' : "**Termination of overseas company** insolvency proceedings"
     'dissolution-voluntary-strike-off-discontinued' : "**Voluntary strike-off action has been discontinued**"
     'dissolution-voluntary-strike-off-suspended' : "**Voluntary strike-off action has been suspended**"
