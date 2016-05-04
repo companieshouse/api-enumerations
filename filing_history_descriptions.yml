@@ -950,3 +950,5 @@ description:
     'second-filing-capital-reduction-of-capital-redomination' : "**Second filing** Reduction of capital following redenomination. Statement of capital on {date}"
     'notice-of-removal-of-a-director' : "**Notice of removal** of a director"
     'notice-of-removal-of-a-corporate-director' : "**Notice of removal** of a corporate director"
+    'confirmation-statement-with-no-updates' : "**Confirmation statement** made on {made_up_date} with no updates"
+    'confirmation-statement-with-updates' : "**Confirmation statement** made on {made_up_date} with updates"
