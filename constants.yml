@@ -1464,3 +1464,7 @@ notes:
 cessation_label_for_status:
     'dissolved' : "Dissolved on"
     'converted-closed' : "Closed on"
+register-locations:
+    'registered-office': "Registered office"
+    'single-alternative-inspection-location': "Registered inspection location"
+    'public-register': "Public register"
