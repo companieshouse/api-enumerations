@@ -66,7 +66,7 @@ short_description:
     'voting-rights-50-to-75-percent-as-trust' : "Ownership of voting rights - between 50% and 75% as a trustee of a trust"
     'voting-rights-75-to-100-percent-as-trust' : "Ownership of voting rights - above 75% as a trustee of a trust"
     'voting-rights-25-to-50-percent-as-firm' : "Ownership of voting rights - between 25% and 50% as a member of a firm"
-    'voting-rights-50-to-75percent-as-firm' : "Ownership of voting rights - between 50% and 75% as a member of a firm"
+    'voting-rights-50-to-75-percent-as-firm' : "Ownership of voting rights - between 50% and 75% as a member of a firm"
     'voting-rights-75-to-100-percent-as-firm' : "Ownership of voting rights - above 75% as a member of a firm"
     'right-to-appoint-and-remove-directors' : "Right to appoint and remove directors"
     'right-to-appoint-and-remove-directors-as-trust' : "Right to appoint and remove directors as a trustee of a trust"
