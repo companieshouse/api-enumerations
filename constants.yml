@@ -1468,3 +1468,11 @@ register-locations:
     'registered-office': "Registered office address"
     'single-alternative-inspection-location': "Registered inspection location"
     'public-register': "Public register"
+register-types:
+    'directors' : "Directors"
+    'secretaries' : "Secretaries"
+    'persons-with-significant-control' : "Person(s) with significant control"
+    'usual-residential-address' : "Usual residential addresses"
+    'members' : "Members"
+    'llp-members' : "Members"
+    'llp-usual-residential-address' : "Usual residential addresses"
