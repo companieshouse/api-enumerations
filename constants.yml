@@ -1471,7 +1471,7 @@ register_locations:
 register_types:
     'directors' : "Directors"
     'secretaries' : "Secretaries"
-    'persons-with-significant-control' : "Person(s) with significant control"
+    'persons-with-significant-control' : "Person(s) with significant control (PSCs)"
     'usual-residential-address' : "Usual residential addresses"
     'members' : "Members"
     'llp-members' : "Members"
