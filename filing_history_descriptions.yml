@@ -966,6 +966,6 @@ description:
     'members-register-information-at-withdrawal-from-the-public-register': "**Members register** information at {date} on withdrawal from the public register"
     'limited-liability-partnership-members-register-information-at-withdrawal-from-the-public-register' : "**Members' register** information at {date} on withdrawal from the public register"
     'limited-liability-partnership-members-usual-residential-address-register-information-at-withdrawal-from-the-public-register' : "**Members' usual residential address register** information at {date} on withdrawal from the public register"
-    'limited-liability-partnership-persons-with-significant-control-register-information-at-withdrawal-from-the-public-register' : "**Person(s) with significant control register** information at {date} on withdrawal from the public register"
+    'limited-liability-partnership-persons-with-significant-control-register-information-at-withdrawal-from-the-public-register' : "**Persons' with significant control register** information at {date} on withdrawal from the public register"
     'confirmation-statement-with-no-updates' : "**Confirmation statement** made on {made_up_date} with no updates"
     'confirmation-statement-with-updates' : "**Confirmation statement** made on {made_up_date} with updates"
