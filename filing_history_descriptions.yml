@@ -868,7 +868,7 @@ description:
     'capital-directors-statement-auditors-report' : "**Directors statement and auditors report.** Out of capital"
     'change-company-details-by-uk-establishment-overseas-company' : "**Details changed** for a UK establishment - {change_details}"
     'change-company-details-by-uk-establishment-overseas-company-with-change-details' : "**Details changed** for a UK establishment - **{branch_number}** {change_type} {change_details},{change_date}"
-    'change-company-details-overseas-company-with-change-details': "**Details changed** for an overseas company - {change address}"
+    'change-company-details-overseas-company-with-change-details': "**Details changed** for an overseas company - {change_address}"
     'change-company-details-overseas-company' : "**Details changed** for an overseas company -  {change_address}"
     'scheme-of-arrangement' : "**Scheme of arrangement**"
     'notice-of-closure-branch-overseas-company' : "**Notice of closure** of a place of business"
