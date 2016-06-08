@@ -1479,7 +1479,7 @@ register_locations:
     'registered-office': "Registered office address"
     'single-alternative-inspection-location': "Registered inspection location"
     'public-register': "Public register"
-    'unspecified-location': "Withdrawn from the public register"
+    'unspecified-location': "Not on public register"
 register_types:
     'directors' : "Directors"
     'secretaries' : "Secretaries"
