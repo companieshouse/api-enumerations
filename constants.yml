@@ -65,6 +65,7 @@ company_type:
     'other' : "Other company type"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
     'uk-establishment' : "UK establishment company"
+    'registered-society-non-jurisdictional': "Registered society"
 company_birth_type:
     'private-unlimited' : "Incorporated on"
     'ltd' : "Incorporated on"
