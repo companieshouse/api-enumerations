@@ -64,6 +64,7 @@ company_type:
     'unregistered-company' : "Unregistered company"
     'other' : "Other company type"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
+    'uk-establishment' : "UK establishment company"
 company_birth_type:
     'private-unlimited' : "Incorporated on"
     'ltd' : "Incorporated on"
@@ -76,7 +77,7 @@ company_birth_type:
     'private-unlimited-nsc' : "Incorporated on"
     'private-limited-shares-section-30-exemption' : "Incorporated on"
     'assurance-company' : "Registered on"
-    'oversea-company' : "Registered on"
+    'oversea-company' : "First UK establishment opened on"
     'eeig' : "Registered on"
     'icvc-securities' : "Incorporated on"
     'icvc-warrant' : "Incorporated on"
@@ -90,6 +91,7 @@ company_birth_type:
     'unregistered-company' : "Formed on"
     'other' : "Incorporated on"
     'european-public-limited-liability-company-se' : "Formed on"
+    'uk-establishment' : "Opened on"
 proof_status:
     'paper' : "PAPER"
     'electronic' : "ELECTRONIC"
@@ -105,6 +107,8 @@ company_status:
     'voluntary-arrangement' : "Voluntary Arrangement"
     'insolvency-proceedings' : "Insolvency Proceedings"
     'administration' : "In Administration"
+    'open' : "Open"
+    'closed' : "Closed"
 company_status_detail:
     'active' : ""
     'dissolved' : ""
@@ -114,6 +118,13 @@ company_status_detail:
     'petition-to-restore-dissolved' : "Petition to restore dissolved"
     'transformed-to-se' : "Transformed to SE"
     'converted-to-plc' : "Converted to PLC"
+foreign_account_type:
+    'accounting-requirements-of-originating-country-apply' : "Accounting requirements of originating country apply"
+    'accounting-requirements-of-originating-country-do-not-apply': "Accounting requirements of originating country do not apply"
+terms_of_account_publication:
+    'accounts-publication-date-supplied-by-company' : "Accounts publication date supplied by company"
+    'accounting-publication-date-does-not-need-to-be-supplied-by-company' : "Accounts publication date does not need to be supplied by company"
+    'accounting-reference-date-allocated-by-companies-house' : "Accounting reference date allocated by Companies House"
 account_type:
     'null' : "Null"
     'full' : "Full"
@@ -1464,3 +1475,16 @@ notes:
 cessation_label_for_status:
     'dissolved' : "Dissolved on"
     'converted-closed' : "Closed on"
+register_locations:
+    'registered-office': "Registered office address"
+    'single-alternative-inspection-location': "Registered inspection location"
+    'public-register': "Public register"
+    'unspecified-location': "Not on the public register"
+register_types:
+    'directors' : "Directors"
+    'secretaries' : "Secretaries"
+    'persons-with-significant-control' : "Person(s) with significant control (PSCs)"
+    'usual-residential-address' : "Usual residential addresses"
+    'members' : "Members"
+    'llp-members' : "Members"
+    'llp-usual-residential-address' : "Usual residential addresses"
