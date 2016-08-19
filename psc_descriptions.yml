@@ -99,7 +99,6 @@ short_description:
     'significant-influence-or-control-as-trust-limited-liability-partnership' : "Has significant influence or control as a trustee of a trust"
     'significant-influence-or-control-as-firm-limited-liability-partnership' : "Has significant influence or control as a member of a firm"
 
-
 statement_description:
     'no-individual-or-entity-with-signficant-control' : "The company knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the company"
     'psc-exists-but-not-identified' : "The company knows or has reasonable cause to believe that there is a registrable person in relation to the company but it has not identified the registrable person"
