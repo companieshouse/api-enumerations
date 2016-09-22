@@ -1475,3 +1475,21 @@ notes:
 cessation_label_for_status:
     'dissolved' : "Dissolved on"
     'converted-closed' : "Closed on"
+register_locations:
+    'registered-office': "Registered office address"
+    'single-alternative-inspection-location': "Registered inspection location"
+    'public-register': "Public register"
+    'unspecified-location': "Not on the public register"
+register_types:
+    'directors' : "Directors"
+    'secretaries' : "Secretaries"
+    'persons-with-significant-control' : "Person(s) with significant control (PSCs)"
+    'usual-residential-address' : "Usual residential addresses"
+    'members' : "Members"
+    'llp-members' : "Members"
+    'llp-usual-residential-address' : "Usual residential addresses"
+partial_data_available:
+    'full-data-available-from-financial-conduct-authority' : "Refer to the Financial Conduct Authority for further information about this company"
+    'full-data-available-from-department-of-the-economy' : "Refer to the Department of the Economy for further information about this company"
+    'full-data-available-from-the-company' : "Contact the company directly for further information"
+    'full-data-available-from-financial-conduct-authority-mutuals-public-register' : "Refer to the Financial Conduct Authority Mutuals Public Register for further information about this company" 
