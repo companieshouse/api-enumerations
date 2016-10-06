@@ -648,7 +648,7 @@ description:
     'change-person-secretary-overseas-company' : "**Secretary's details changed**"
     'change-corporate-secretary-overseas-company-with-change-date' : "**Secretary's details changed** for {officer_name} on {change_date}"
     'change-corporate-secretary-overseas-company' : "**Secretary's details changed**"
-    'change-person-authorised-overseas-company-with-change-date' : "**Change of details** for {officer_name} as a person authorised to represent UK establishment **{branch_number}** on {change_date}"
+    'change-person-authorised-overseas-company-with-change-date' : "**Change of details** for {officer_name} of {officer_address} as a person authorised to represent UK establishment **{branch_number}** on {change_date}"
     'change-person-authorised-overseas-company' : "**Change of details** {change_details}"
     'change-service-address-judicial-factor-overseas-company' : "**Service address changed**"
     'change-person-authorised-to-represent-overseas-company-with-change-date' : "**Change of details** for {officer_name} as a person authorised to accept service for UK establishment **{branch_number}** on {change_date}"
