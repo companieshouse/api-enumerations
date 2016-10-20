@@ -975,3 +975,4 @@ description:
     'limited-liability-partnership-persons-with-significant-control-register-information-on-withdrawal-from-the-public-register' : "**Persons' with significant control register** information at {date} on withdrawal from the public register"
     'confirmation-statement-with-no-updates' : "**Confirmation statement** made on {made_up_date} with no updates"
     'confirmation-statement-with-updates' : "**Confirmation statement** made on {made_up_date} with updates"
+    'gazette-dissolved-statutory-instrument' : "**Final Gazette** dissolved by statutory instrument"
