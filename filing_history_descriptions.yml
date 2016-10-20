@@ -976,3 +976,4 @@ description:
     'confirmation-statement-with-no-updates' : "**Confirmation statement** made on {made_up_date} with no updates"
     'confirmation-statement-with-updates' : "**Confirmation statement** made on {made_up_date} with updates"
     'gazette-dissolved-statutory-instrument' : "**Final Gazette** dissolved by statutory instrument"
+    'gazette-dissolved-liquidation' : "**Final Gazette** dissolved following liquidation"
