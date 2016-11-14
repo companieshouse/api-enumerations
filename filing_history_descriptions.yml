@@ -755,7 +755,7 @@ description:
     'formation-terms-conversion-societas-europaea-to-public-limited-company' : "**Draft terms of conversion** of Societas Europaea to Public Limited Company"
     'transformation-public-limited-company-to-societas-europaea' : "**Closure of Public Limited Company and transformed to Societas Europaea**"
     'proposed-transfer-societas-europaea-from-uk' : "**Proposed transfer of Societas Europaea from United Kingdom**"
-    'proposed-transfer-societas-europaea-to-uk' : "**Proposed transfer of Societas Europaea to United Kingdom**" #This will be deprecated on 13th December 2016; use process-transfer-societas-europea-from-uk
+    'proposed-transfer-societas-europaea-to-uk' : "**Proposed transfer of Societas Europaea from United Kingdom**" #This will be removed in April 2017; use process-transfer-societas-europea-from-uk
     'transfer-societas-europaea-to-uk' : "**Transfer of Societas Europaea to United Kingdom**"
     'transfer-societas-europaea-from-uk' : "**Transfer of Societas Europaea from United Kingdom**"
     'statement-solvency-by-members-societas-euopaea-proposing-to-transfer-from-uk' : "**Statement of solvency** by members of Societas Europaea which is proposing to transfer from the United Kingdom"
