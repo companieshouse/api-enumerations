@@ -102,7 +102,7 @@ company_status:
     'active' : "Active"
     'dissolved' : "Dissolved"
     'liquidation' : "Liquidation"
-    'receivership' : "Receivership"
+    'receivership' : "Receiver Action"
     'converted-closed' : "Converted / Closed"
     'voluntary-arrangement' : "Voluntary Arrangement"
     'insolvency-proceedings' : "Insolvency Proceedings"
