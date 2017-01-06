@@ -126,7 +126,7 @@ description:
     'liquidation-voluntary-appointment-of-liquidator' : "**Appointment of a voluntary liquidator**"
     'liquidation-voluntary-arrangement-meeting-approving-companies-voluntary-arrangement' : "**Notice to Registrar of companies voluntary arrangement** taking effect"
     'liquidation-voluntary-arrangement-revocation-or-suspension' : "**Order of revocation or suspension of voluntary arrangement**"
-    'liquidation-cva-supervisors-abstracts-of-receipts-payments-with-brought-down-date' : "**Voluntary arrangement supervisor's abstract of receipts and payments** to {brought_down_date}"
+    'liquidation-cva-supervisors-abstract-of-receipts-payments-with-brought-down-date' : "**Voluntary arrangement supervisor's abstract of receipts and payments** to {brought_down_date}"
     'liquidation-cva-supervisors-abstracts-of-receipts-payments' : "**Voluntary arrangement supervisor's abstract of receipts and payments**"
     'liquidation-voluntary-arrangement-completion-with-date' : "**Notice of completion of voluntary arrangement** on {case_end_date}"
     'liquidation-voluntary-arrangement-completion' : "**Notice of completion of voluntary arrangement**"
