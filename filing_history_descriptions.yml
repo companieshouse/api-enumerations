@@ -895,7 +895,7 @@ description:
     'withdrawal-of-a-person-with-significant-control-statement' : "**Withdrawal** of a person with significant control statement on {withdrawal_date}"
     'notification-of-a-person-with-significant-control-limited-liability-partnership' : "**Notification** of {psc_name} as a person with significant control on {notification_date}"
     'notification-of-a-super-secure-person-with-significant-control-limited-liability-partnership' : "**Notification** of a protected person with significant control"
-    'notification-of-a-person-with-significant-control-scottish-limited-partnership' : "**Notification** of {psc_name} as a person with significant contr    ol on {notification_date}"
+    'notification-of-a-person-with-significant-control-scottish-limited-partnership' : "**Notification** of {psc_name} as a person with significant control on {notification_date}"
     'change-to-a-person-with-significant-control-limited-liability-partnership' : "**Change** of details for {psc_name} as a person with significant control on {change_date}"
     'change-to-a-person-with-significant-control-scottish-limited-partnership' : "**Change** of details for {psc_name} as a person with significant control on {change_date}"
     'cessation-of-a-person-with-significant-control-limited-liability-partnership' : "**Cessation** of {psc_name} as a person with significant control on {cessation_date}"
