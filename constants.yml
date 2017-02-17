@@ -65,6 +65,9 @@ company_type:
     'other' : "Other company type"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
     'uk-establishment' : "UK establishment company"
+company_subtype:
+    'community-interest-company' : "Community Interest Company (CIC)"
+    'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
 company_birth_type:
     'private-unlimited' : "Incorporated on"
     'ltd' : "Incorporated on"
@@ -1492,4 +1495,4 @@ partial_data_available:
     'full-data-available-from-financial-conduct-authority' : "Refer to the Financial Conduct Authority for further information about this company"
     'full-data-available-from-department-of-the-economy' : "Refer to the Department of the Economy for further information about this company"
     'full-data-available-from-the-company' : "Contact the company directly for further information"
-    'full-data-available-from-financial-conduct-authority-mutuals-public-register' : "Refer to the Financial Conduct Authority Mutuals Public Register for further information about this company" 
+    'full-data-available-from-financial-conduct-authority-mutuals-public-register' : "Refer to the Financial Conduct Authority Mutuals Public Register for further information about this company"
