@@ -38,7 +38,7 @@ company_summary:
     'investment-company-with-variable-capital' : "Investment company with variable capital"
     'unregistered-company' : "Unregistered company"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
-    'scottish-partnership' : "Scottish partnership"
+    'scottish-partnership' : "Scottish qualifying partnership"
 company_type:
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited company"
@@ -66,7 +66,7 @@ company_type:
     'other' : "Other company type"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
     'uk-establishment' : "UK establishment company"
-    'scottish-partnership' : "Scottish partnership"
+    'scottish-partnership' : "Scottish qualifying partnership"
 company_subtype:
     'community-interest-company' : "Community Interest Company (CIC)"
     'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
