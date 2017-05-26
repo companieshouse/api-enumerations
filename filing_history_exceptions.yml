@@ -14,3 +14,4 @@ exceptions:
     'filing-history-not-available-investment-company-with-variable-capital' : 'Records are not available from Companies House. Please refer to:\\\\ The Financial Conduct Authority\\Public Records Section\\25 The North Colonnade\\Canary Wharf\\London\\E14 5HS\\\\ Tel: 020 7066 4916\\ [[https://mutuals.fsa.gov.uk]](https://mutuals.fsa.gov.uk)'
     'filing-history-not-available-unknown-prefix' : 'Unrecognised company type'
     'filing-history-not-available-invalid-format' : 'Unrecognised company number format'
+    'filing-history-not-available-protected-cell-company' : 'Records are not available from Companies House. Please refer to:\\\\ The Financial Conduct Authority\\Public Records Section\\25 The North Colonnade\\Canary Wharf\\London\\E14 5HS\\\\ Tel: 020 7066 4916\\ [[https://mutuals.fsa.gov.uk]](https://mutuals.fsa.gov.uk)'
