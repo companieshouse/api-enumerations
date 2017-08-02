@@ -48,6 +48,18 @@ description:
     'significant-influence-or-control-limited-liability-partnership' : "The person has the right to exercise, or actually exercises, significant influence or control over the LLP."
     'significant-influence-or-control-as-trust-limited-liability-partnership' : "The person has the right to exercise, or actually exercises, significant influence or control over the activities of a trust, and the trustees of that trust (in their capacity as such)  have the right to exercise, or actually exercise, significant influence or control over the LLP."
     'significant-influence-or-control-as-firm-limited-liability-partnership' : "The person has the right to exercise, or actually exercises, significant influence or control over the activities of a firm that, under the law by which it is governed is not a legal person; and the members of that firm (in their capacity as such) have the right to exercise, or actually exercise, significant influence or control over the LLP."
+    'part-right-to-share-surplus-assets-25-to-50-percent' : 'The person holds or is treated as holding, directly or indirectly, the right to share in more than 25% but not more than 50% of any surplus assets of the partnership on a winding up.'
+    'part-right-to-share-surplus-assets-50-to-75-percent' : 'The person holds or is treated as holding, directly or indirectly, the right to share in more than 50% but not more than 75% of any surplus assets of the partnership on a winding up.'
+    'part-right-to-share-surplus-assets-75-to-100-percent' : 'The person holds or is treated as holding, directly or indirectly, the right to share in more than 75% of any surplus assets of the partnership on a winding up.'
+    'part-right-to-share-surplus-assets-25-to-50-percent-as-trust' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a trust; and the trustee of that trust (in their capacity as such) hold or are treated as holding, directly or indirectly, the right to share in more than 25% but not more than 50% of any surplus assets on a winding up of the partnership.'
+    'part-right-to-share-surplus-assets-50-to-75-percent-as-trust' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a trust; and the trustee of that trust (in their capacity as such) hold or are treated as holding, directly or indirectly, the right to share in more than 50% but not more than 75% of any surplus assets on a winding up of the partnership.'
+    'part-right-to-share-surplus-assets-75-to-100-percent-as-trust' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a trust; and the trustee of that trust (in their capacity as such) hold or are treated as holding, directly or indirectly, the right to share in more than 75% of any surplus assets on a winding up of the partnership.'
+    'part-right-to-share-surplus-assets-25-to-50-percent-as-firm' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a firm that, under the law by which it is governed, is not a legal person; and the members of that firm (in their capacity as such) hold or as treated as holding, directly or indirectly, the right to share in more than 25% but not more than 50% of any surplus assets of the partnership on a winding up.'
+    'part-right-to-share-surplus-assets-50-to-75-percent-as-firm' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a firm that, under the law by which it is governed, is not a legal person; and the members of that firm (in their capacity as such) hold or as treated as holding, directly or indirectly, the right to share in more than 50% but not more than 75% of any surplus assets of the partnership on a winding up.'
+    'part-right-to-share-surplus-assets-75-to-100-percent-as-firm' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a firm that, under the law by which it is governed, is not a legal person; and the members of that firm (in their capacity as such) hold or as treated as holding, directly or indirectly, the right to share 75% or more of any surplus assets of the partnership on a winding up.'
+    'right-to-appoint-and-remove-person' : 'The person holds the right, directly or indirectly, to appoint or remove a majority of the persons who are entitled to take part in the management of the partnership.'
+    'right-to-appoint-and-remove-person-as-firm' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a firm that, under the law by which it is governed, is not a legal person; and the members of that firm (in their capacity as such) hold the right, directly or indirectly, to appoint or remove a majority of the persons who are entitled to take part in the management of the partnership.'
+    'right-to-appoint-and-remove-person-as-trust' : 'The person has the right to exercise, or actually exercises, significant influence or control over the activities of a trust, and the trustees of that trust (in their capacity as such) hold the right, directly or indirectly, to appoint or remove a majority of the persons who are entitled to take part in the management of the partnership.'
 
 short_description:
     'ownership-of-shares-25-to-50-percent' : "Ownership of shares – More than 25% but not more than 50%"
@@ -98,7 +110,18 @@ short_description:
     'significant-influence-or-control-limited-liability-partnership' : "Has significant influence or control"
     'significant-influence-or-control-as-trust-limited-liability-partnership' : "Has significant influence or control as a trustee of a trust"
     'significant-influence-or-control-as-firm-limited-liability-partnership' : "Has significant influence or control as a member of a firm"
-
+    'part-right-to-share-surplus-assets-25-to-50-percent' : "Right to surplus assets - More than 25% but not more than 50%"
+    'part-right-to-share-surplus-assets-50-to-75-percent' : "Right to surplus assets - More than 50% but less than 75%"
+    'part-right-to-share-surplus-assets-75-to-100-percent' : "Right to surplus assets - 75% or more"
+    'part-right-to-share-surplus-assets-25-to-50-percent-as-trust' : "Right to surplus assets - More than 25% but not more than 50% as a trustee of a trust"
+    'part-right-to-share-surplus-assets-50-to-75-percent-as-trust' : "Right to surplus assets - More than 50% but less than 75% as a trustee of a trust"
+    'part-right-to-share-surplus-assets-75-to-100-percent-as-trust' : "Right to surplus assets - 75% or more as a trustee of a trust"
+    'part-right-to-share-surplus-assets-25-to-50-percent-as-firm' : "Right to surplus assets - More than 25% but not more than 50% as a member of a firm"
+    'part-right-to-share-surplus-assets-50-to-75-percent-as-firm' : "Right to surplus assets - More than 50% but less than 75% as a member of a firm"
+    'part-right-to-share-surplus-assets-75-to-100-percent-as-firm' : "Right to surplus assets - 75% or more as a member of a firm"
+    'right-to-appoint-and-remove-person' : "Right to appoint and remove persons"
+    'right-to-appoint-and-remove-person-as-firm' : "Right to appoint and remove persons as a member of a firm"
+    'right-to-appoint-and-remove-person-as-trust' : "Right to appoint and remove persons as a trustee of a trust"
 
 statement_description:
     'no-individual-or-entity-with-signficant-control' : "The company knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the company"
@@ -108,6 +131,13 @@ statement_description:
     'psc-contacted-but-no-response' : "The company has given a notice under section 790D of the Act which has not been complied with"
     'psc-has-failed-to-confirm-changed-details' : "{linked_psc_name} has failed to comply with a notice given by the company under section 790E of the Act"
     'restrictions-notice-issued-to-psc' : "The company has issued a restrictions notice under paragraph 1 of Schedule 1B to the Act"
+    'no-individual-or-entity-with-signficant-control-partnership' : "The partnership knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the partnership"
+    'psc-exists-but-not-identified-partnership' : "The partnership knows or has reasonable cause to believe that there is a registrable person in relation to the partnership but it has not identified the registrable person"
+    'psc-details-not-confirmed-partnership' : "The partnership has identified a registrable person in relation to the partnership but all the required particulars of that person have not been confirmed"
+    'steps-to-find-psc-not-yet-completed-partnership' : "The partnership has not yet completed taking reasonable steps to find out if there is anyone who is a registrable person or a registrable relevant legal entity in relation to the partnership"
+    'psc-contacted-but-no-response-partnership' : "The partnership has given a notice under Regulation 10 of The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 which has not been complied with"
+    'psc-has-failed-to-confirm-changed-details-partnership' : "The partnership has given a notice under Regulation 11 of The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 which has not been complied with"
+    'restrictions-notice-issued-to-psc-partnership' : "The partnership has issued a restrictions notice under paragraph 1 of Schedule 2 to The Scottish Partnerships (Register of People with Significant Control) Regulations 2017"
 
 super_secure_description:
     'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force under regulations under section 790ZG in relation to this company"
