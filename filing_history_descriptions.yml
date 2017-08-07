@@ -916,6 +916,9 @@ description:
     'gazette-return-of-final-meeting-processed' : "**Gazette** return of final meeting"
     'liquidation-ex' : "**No longer in liquidation**"
     'restoration-order-of-court' : "**Restoration** by order of the court"
+    'order-of-court-restoration-previously-creditors-voluntary-liquidation' : "**Restoration** by order of court - previously in Creditors' Voluntary Liquidation"
+    'order-of-court-restoration-previously-members-voluntary-liquidation' : "**Restoration** by order of court - previously in Members' Voluntary Liquidation"
+    'order-of-court-restoration-previously-compulsory-liquidation' : "**Restoration** by order of court - previously in Compulsory Liquidation"
     'address-correction' : "**Address** correction"
     'dissolved-compulsory-strike-off-suspended' : "**Compulsory strike-off action has been suspended**"
     'no-description-available' : 'No description available'
