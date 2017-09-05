@@ -178,7 +178,7 @@ officer_role:
     'receiver-and-manager': "Receiver and Manager"
     'secretary': "Secretary"
 filing_type:
-    'change-registered-office-address' : "(AD01) Change of Registered Office Address"
+    'change-registered-office-address' : "Change of registered office address"
 filing_status:
     'in-progress': "In Progress"
     'queued' : "Queued"
