@@ -9,7 +9,7 @@ company_search_description:
     'first-uk-establishment-opened-on' : "First UK establishment opened on {date:date_of_creation}"
     'opened-on' : "Opened on {date:date_of_creation}"
     'voluntary-arrangement': "Voluntary Arrangement"
-    'receivership': "Receivership"
+    'receivership': "Receiver Action"
     'insolvency-proceedings' : "Insolvency Proceedings"
     'liquidation' : "Liquidation"
     'administration' : "In Administration"
