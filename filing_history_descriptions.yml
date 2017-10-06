@@ -673,7 +673,7 @@ description:
     'change-person-director-company-with-change-date' : "**Director's details changed** for {officer_name} on {change_date}"
     'change-person-director-company' : "**Director's details changed**"
     'change-person-secretary-company-with-change-date' : "**Secretary's details changed** for {officer_name} on {change_date}"
-    'change-person-secretary-company' : "**Secretary's details changed** for {officer_name}"
+    'change-person-secretary-company' : "**Secretary's details changed**"
     'change-corporate-director-company-with-change-date' : "**Director's details changed** for {officer_name} on {change_date}"
     'change-corporate-director-company' : "**Director's details changed**"
     'change-corporate-secretary-company-with-change-date' : "**Secretary's details changed** for {officer_name} on {change_date}"
