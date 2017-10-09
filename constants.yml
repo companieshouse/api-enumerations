@@ -40,6 +40,8 @@ company_summary:
     'unregistered-company' : "Unregistered company"
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
     'scottish-partnership' : "Scottish qualifying partnership"
+    'charitable-incorporated-organisation' : "Charitable incorporated organisation"
+    'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
 company_type:
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited company"
@@ -69,6 +71,8 @@ company_type:
     'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
     'uk-establishment' : "UK establishment company"
     'scottish-partnership' : "Scottish qualifying partnership"
+    'charitable-incorporated-organisation' : "Charitable incorporated organisation"
+    'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
 company_subtype:
     'community-interest-company' : "Community Interest Company (CIC)"
     'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
