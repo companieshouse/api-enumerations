@@ -108,7 +108,7 @@ short_description:
     'right-to-appoint-and-remove-members-as-trust-limited-liability-partnership' : "Right to appoint and remove members with control over the trustees of a trust"
     'right-to-appoint-and-remove-members-as-firm-limited-liability-partnership' : "Right to appoint and remove members as a member of a firm"
     'significant-influence-or-control-limited-liability-partnership' : "Has significant influence or control"
-    'significant-influence-or-control-as-trust-limited-liability-partnership' : "Has significant influence or control with control over the trustees of a trust"
+    'significant-influence-or-control-as-trust-limited-liability-partnership' : "Has significant influence or control over the trustees of a trust"
     'significant-influence-or-control-as-firm-limited-liability-partnership' : "Has significant influence or control as a member of a firm"
     'part-right-to-share-surplus-assets-25-to-50-percent' : "Right to surplus assets - More than 25% but not more than 50%"
     'part-right-to-share-surplus-assets-50-to-75-percent' : "Right to surplus assets - More than 50% but less than 75%"
