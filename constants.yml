@@ -74,6 +74,7 @@ company_type:
     'scottish-partnership' : "Scottish qualifying partnership"
     'charitable-incorporated-organisation' : "Charitable incorporated organisation"
     'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
+    'european-public-limited-liability-company-se' : "European public limited liability company (SE)"
 company_subtype:
     'community-interest-company' : "Community Interest Company (CIC)"
     'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
