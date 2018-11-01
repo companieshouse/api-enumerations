@@ -69,7 +69,7 @@ company_type:
     'investment-company-with-variable-capital' : "Investment company with variable capital"
     'unregistered-company' : "Unregistered company"
     'other' : "Other company type"
-    'united-kingdom-societas':"United Kingdom Societas"
+    'united-kingdom-societas' : "United Kingdom Societas"
     'uk-establishment' : "UK establishment company"
     'scottish-partnership' : "Scottish qualifying partnership"
     'charitable-incorporated-organisation' : "Charitable incorporated organisation"
