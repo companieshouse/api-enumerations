@@ -137,6 +137,8 @@ company_status_detail:
     'petition-to-restore-dissolved' : "Petition to restore dissolved"
     'transformed-to-se' : "Transformed to SE"
     'converted-to-plc' : "Converted to PLC"
+    'converted-to-uk-societas' : "Converted to UK Societas"
+    'converted-to-ukeig' : "Converted to UKEIG"
 foreign_account_type:
     'accounting-requirements-of-originating-country-apply' : "Accounting requirements of originating country apply"
     'accounting-requirements-of-originating-country-do-not-apply': "Accounting requirements of originating country do not apply"
