@@ -107,7 +107,7 @@ company_birth_type:
     'european-public-limited-liability-company-se' : "Formed on"
     'uk-establishment' : "Opened on"
     'scottish-partnership' : "Registered on"
-    'further-education-corporation-or-sixth-form-college' : "Registered on"
+    'further-education-or-sixth-form-college-corporation' : "Registered on"
 proof_status:
     'paper' : "PAPER"
     'electronic' : "ELECTRONIC"
