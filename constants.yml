@@ -42,6 +42,7 @@ company_summary:
     'scottish-partnership' : "Scottish qualifying partnership"
     'charitable-incorporated-organisation' : "Charitable incorporated organisation"
     'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
+    'further-education-or-sixth-form-college-corporation' : "Further education or sixth form college corporation"
 company_type:
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited company"
@@ -74,6 +75,7 @@ company_type:
     'scottish-partnership' : "Scottish qualifying partnership"
     'charitable-incorporated-organisation' : "Charitable incorporated organisation"
     'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
+    'further-education-or-sixth-form-college-corporation' : "Further education or sixth form college corporation"
 company_subtype:
     'community-interest-company' : "Community Interest Company (CIC)"
     'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
@@ -105,6 +107,7 @@ company_birth_type:
     'european-public-limited-liability-company-se' : "Formed on"
     'uk-establishment' : "Opened on"
     'scottish-partnership' : "Registered on"
+    'further-education-or-sixth-form-college-corporation' : "Registered on"
 proof_status:
     'paper' : "PAPER"
     'electronic' : "ELECTRONIC"
