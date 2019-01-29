@@ -45,6 +45,7 @@ company_summary:
     'scottish-partnership' : "Scottish qualifying partnership"
     'charitable-incorporated-organisation' : "Charitable incorporated organisation"
     'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
+    'further-education-or-sixth-form-college-corporation' : "Further education or sixth form college corporation"
     'eeig' : "European Economic Interest Grouping (EEIG)"
     'ukeig' : "United Kingdom Economic Interest Grouping"
 company_type:
@@ -80,6 +81,7 @@ company_type:
     'scottish-partnership' : "Scottish qualifying partnership"
     'charitable-incorporated-organisation' : "Charitable incorporated organisation"
     'scottish-charitable-incorporated-organisation' : "Scottish charitable incorporated organisation"
+    'further-education-or-sixth-form-college-corporation' : "Further education or sixth form college corporation"
     'eeig' : "European Economic Interest Grouping (EEIG)"
     'ukeig' : "United Kingdom Economic Interest Grouping"
 company_subtype:
@@ -113,6 +115,7 @@ company_birth_type:
     'united-kingdom-societas' : "Formed on"
     'uk-establishment' : "Opened on"
     'scottish-partnership' : "Registered on"
+    'further-education-or-sixth-form-college-corporation' : "Registered on"
     'european-public-limited-liability-company-se' : "Formed on"
     'eeig' : "Registered on"
     'ukeig' : "Registered on"
