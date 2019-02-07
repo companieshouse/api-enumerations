@@ -2,8 +2,8 @@
 identification_type:
     'non-eea' : "Non European Economic Area"
     'eea' : "European Economic Area"
-    'uk-limited-company' : "UK limited company"
-    'other-corporate-body-or-firm' : "Other corporate body or firm"
+    'uk-limited-company' : "UK Limited Company"
+    'other-corporate-body-or-firm' : "Other Corporate Body or Firm"
 jurisdiction:
     'england-wales' : "England/Wales"
     'wales' : "Wales "
