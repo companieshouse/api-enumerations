@@ -41,7 +41,7 @@ description:
     'liquidation-compulsory-appointment-provisional-liquidator-scotland' : "**Appointment of a provisional liquidator**"
     'liquidation-compulsory-notice-winding-up-scotland' : "**Court order** notice of winding up"
     'liquidation-compulsory-notice-winding-up-order' : "**Court order** notice of winding up"
-    'liquidation-compulsory-notice-winding-up-order-scotland' : "**Court order in a winding-up (& Court Order attachment)**"
+    'liquidation-compulsory-notice-winding-up-order-court-scotland' : "**Court order in a winding-up (& Court Order attachment)**"
     'liquidation-compulsory-completion' : "**Completion of winding up**"
     'liquidation-voluntary-defer-dissolution' : "**Deferment of dissolution** (voluntary)"
     'liquidation-compulsory-winding-up-order-with-case-start-date' : "**Order of court** to wind up on {case_start_date}"
