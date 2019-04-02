@@ -65,7 +65,7 @@ description:
     'liquidation-in-administration-rescission-or-amendment-of-order-limiting-disclosure-of-statement-of-affairs-or-proposals' : "**Notice of rescission or amendment of order limiting disclosure** of statement of affairs or proposals in administration"
     'liquidation-in-administration-rescission-or-amendment-of-order-limiting-disclosure-of-statement-of-affairs-or-proposals-scotland' : "**Discharge or variation of order limiting disclosure of statement of affairs or proposals in administration**"
     'liquidation-in-administration-statement-of-affairs-with-form-attached' : "**Statement of affairs** with form {form_attached}"
-    'liquidation-in-administration-statement-of-affairs-with-form-attached-scotland' : "**Statement of affairs**{form_attached}"
+    'liquidation-in-administration-statement-of-affairs-with-form-attached-scotland' : "**Statement of affairs** {form_attached}"
     'liquidation-in-administration-statement-of-affairs' : "**Statement of affairs**"
     'liquidation-in-administration-statement-of-affairs-scotland' : "**Statement of affairs**"
     'liquidation-in-administration-proposals' : "**Statement of administrator's proposal**"
