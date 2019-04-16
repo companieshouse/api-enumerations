@@ -176,10 +176,8 @@ description:
     'liquidation-voluntary-appointment-of-liquidator' : "**Appointment of a voluntary liquidator**"
     'liquidation-voluntary-arrangement-meeting-approving-companies-voluntary-arrangement' : "**Notice to Registrar of companies voluntary arrangement** taking effect"
     'liquidation-voluntary-arrangement-meeting-approving-companies-voluntary-arrangement-scotland' : "**Voluntary arrangement taking effect**"
-    'liquidation-voluntary-arrangement-meeting-approving-companies-voluntary-arragement' : "**Notice to Registrar of companies voluntary arrangement** taking effect" # To be deprecated in October 2017. Use liquidation-voluntary-arrangement-meeting-approving-companies-voluntary-arrangement
     'liquidation-voluntary-arrangement-revocation-or-suspension' : "**Order of revocation or suspension of voluntary arrangement**"
     'liquidation-cva-supervisors-abstract-of-receipts-payments-with-brought-down-date' : "**Voluntary arrangement supervisor's abstract of receipts and payments** to {brought_down_date}"
-    'liquidation-cva-supervisors-abstracts-of-receipts-payments-with-brought-down-date' : "**Voluntary arrangement supervisor's abstract of receipts and payments** to {brought_down_date}" # To be deprecated in October 2017. Use liquidation-cva-supervisors-abstract-of-receipts-payments-with-brought-down-date
     'liquidation-cva-supervisors-abstracts-of-receipts-payments' : "**Voluntary arrangement supervisor's abstract of receipts and payments**"
     'liquidation-voluntary-arrangement-supervisors-progress-report-scotland' : "**Supervisor’s progress report in CVA**"
     'liquidation-voluntary-arrangement-completion-with-date' : "**Notice of completion of voluntary arrangement** on {case_end_date}"
@@ -198,9 +196,7 @@ description:
     'liquidation-receiver-amended-certificate-of-constitution' : "**Amended certificate of constitution of creditors' committee**"
     'liquidation-receiver-report-change-of-committee' : "**Administrator's report of a change in committee membership**"
     'liquidation-receiver-abstract-of-receipts-and-payments-with-brought-down-date' : "**Receiver's abstract of receipts and payments** to {brought_down_date}"
-    'liquidation-receiver-abstracts-of-receipts-and-payments-with-brought-down-date' : "**Receiver's abstract of receipts and payments** to {brought_down_date}" # To be deprecated in October 2017. Use liquidation-receiver-abstract-of-receipts-and-payments-with-brought-down-date
     'liquidation-receiver-abstract-of-receipts-and-payments' : "**Receiver's abstract of receipts and payments**"
-    'liquidation-receiver-abstracts-of-receipts-and-payments' : "**Receiver's abstract of receipts and payments**" # To be deprecated in October 2017. Use liquidation-receiver-abstract-of-receipts-and-payments
     'liquidation-receiver-death-of-receiver' : "**Notice of adminstrative receivers' death**"
     'liquidation-receiver-order-to-dispose-of-charged-property' : "**Notice of order to dispose of charged property**"
     'liquidation-receiver-order-to-dispose-of-charged-property-scotland' : "**Authorisation to dispose of secured property**"
@@ -209,7 +205,6 @@ description:
     'liquidation-administration-notice-of-petition-scotland' : "**Notice of Petition for Administration Order**"
     'liquidation-insolvency-judgement-overseas' : "**Insolvency judgement**"
     'liquidation-voluntary-arrangement-commencement-of-moratorium' : "**Commencement of moratorium**"
-    'liquidation-voluntary-arragenment-commencement-of-moratorium' : "**Commencement of moratorium**" # To be deprecated in October 2017. Use liquidation-voluntary-arrangement-commencement-of-moratorium
     'liquidation-voluntary-arrangement-extension-of-moratorium' : "**Extension or further extension of moratorium**"
     'liquidation-voluntary-arrangement-ending-of-moratorium' : "**End of moratorium**"
     'liquidation-voluntary-arrangement-withdrawal-of-consent' : "**Withdrawal of nominee's consent to act**"
