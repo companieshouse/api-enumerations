@@ -1025,7 +1025,6 @@ description:
     'second-filing-of-member-appointment-with-name' : "**Second filing** for the appointment of {officer_name} as a member"
     'second-filing-of-change-of-member-details-with-name' : "**Second filing** to change the details of {officer_name} as a member"
     'second-filing-of-member-termination-with-name' : "**Second filing** for the termination of {officer_name} as a member"
-    'second-filing-of-annual-return-with-made-up-date' : "**Second filing** of the annual return made up to {made_up_date}"
     'second-filing-notification-of-a-person-with-significant-control' : "**Second filing** for the notification of {psc_name} as a person with significant control"
     'second-filing-notification-of-a-person-with-significant-control-without-name-date' : "**Second filing** for the notification of a person with significant control"
     'second-filing-change-details-of-a-person-with-significant-control' : "**Second filing** to change the details of {psc_name} as a person with significant control"
