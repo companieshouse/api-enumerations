@@ -1,4 +1,3 @@
-product_types:
-  'CICACC' : 'CIC report'
-  'LFP' : 'Late filing penalty'
-  'SECURE243' : 'Protect your home from credit reference agencies'
+product_type:
+  'cic-report' : 'CIC report'
+  'late-filing-penalty' : 'Late filing penalty'
