@@ -62,7 +62,7 @@ company_type:
     'icvc-warrant' : "Investment company with variable capital"
     'icvc-umbrella' : "Investment company with variable capital"
     'registered-society-non-jurisdictional': "Registered Society"
-    'industrial-and-provident-society' : "Industrial and Provident Society"
+    'industrial-and-provident-society' : "Industrial and Provident society"
     'northern-ireland' : "Northern Ireland company"
     'northern-ireland-other' : "Credit union (Northern Ireland)"
     'llp' : "Limited liability partnership"
