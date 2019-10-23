@@ -156,6 +156,9 @@ account_type:
     'audit-exemption-subsidiary' : "Audit Exemption Subsidiary"
     'filing-exemption-subsidiary' : "Filing Exemption Subsidiary"
     'micro-entity' : "Micro Entity"
+    'no-accounts-type-available' : "No accounts type available"
+    'audited-abridged' : "Audited abridged"
+    'unaudited-abridged' : "Unaudited abridged"
 officer_role:
     'cic-manager': "CIC Manager"
     'corporate-director': "Director"
