@@ -1,3 +1,6 @@
 product_type:
   'cic-report' : 'CIC report'
   'late-filing-penalty' : 'Late filing penalty'
+  'certificate'                 : 'Certificate of Incorporation'
+  'certificate-same-day'        : 'Certificate of Incorporation same day'
+  'certificate-additional-copy' : 'Additional copy of Certificate of Incorporation'
