@@ -1,3 +1,5 @@
 ---
 certificate-description:
   'company-certificate' : 'certificate for company {company_number}'
+certified-copy-description:
+  'company-certified-copy' : 'certified copy for company {company_number}'
