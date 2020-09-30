@@ -3,3 +3,5 @@ certificate-description:
   'company-certificate' : 'certificate for company {company_number}'
 certified-copy-description:
   'company-certified-copy' : 'certified copy for company {company_number}'
+missing-image-delivery-description:
+  'company-missing-image-delivery' : 'missing image delivery for company {company_number}'
