@@ -4,6 +4,7 @@ errors:
         'access-denied' : "Access denied"
         'company-profile-not-found' : "Company profile not found"
         'company-insolvencies-not-found' : "Company insolvencies not found"
+        'etag-mismatch' : "An update was made to the {object} by another user during your session. Select the back button to see the updated version and to make further changes"
         'invalid-authorization-header' : "Invalid authorization header"
         'invalid-http-method' : "Access denied for HTTP method {method}"
         'invalid-client-id' : "Invalid client ID"
