@@ -9,10 +9,11 @@ company_search_description:
     'first-uk-establishment-opened-on' : "First UK establishment opened on {date:date_of_creation}"
     'opened-on' : "Opened on {date:date_of_creation}"
     'voluntary-arrangement': "Voluntary Arrangement"
-    'receivership': "Receivership"
+    'receivership': "Receiver Action"
     'insolvency-proceedings' : "Insolvency Proceedings"
     'liquidation' : "Liquidation"
     'administration' : "In Administration"
+    'registered-externally' : "Registered externally as {external_registration_number}"
 officer_search_description:
     'appointment-count' : "Total number of appointments {appointment_count}"
     'born-on' : "Born {month-year:date_of_birth}"
