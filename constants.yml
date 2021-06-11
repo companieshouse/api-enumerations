@@ -48,6 +48,7 @@ company_summary:
     'further-education-or-sixth-form-college-corporation' : "Further education or sixth form college corporation"
     'eeig' : "European Economic Interest Grouping (EEIG)"
     'ukeig' : "United Kingdom Economic Interest Grouping"
+    'uk-establishment' : "UK establishment company"
 company_type:
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited company"
