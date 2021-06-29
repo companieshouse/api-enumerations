@@ -243,6 +243,7 @@ insolvency_case_date_type:
     'administration-discharged-on' : "Administration discharged"
     'instrumented-on' : "Instrument date"
     'moratorium-started-on' : "Moratorium start date"
+    'moratorium-ended-on' : "Moratorium ended on"
     'ordered-to-wind-up-on' : "Ordered to wind up"
     'voluntary-arrangement-started-on' : "Date of meeting to approve CVA"
     'voluntary-arrangement-ended-on' : "Date of completion or termination of CVA"
