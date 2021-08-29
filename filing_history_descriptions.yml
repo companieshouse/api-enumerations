@@ -197,7 +197,7 @@ description:
     'liquidation-receiver-report-change-of-committee' : "**Administrator's report of a change in committee membership**"
     'liquidation-receiver-abstract-of-receipts-and-payments-with-brought-down-date' : "**Receiver's abstract of receipts and payments** to {brought_down_date}"
     'liquidation-receiver-abstract-of-receipts-and-payments' : "**Receiver's abstract of receipts and payments**"
-    'liquidation-receiver-death-of-receiver' : "**Notice of adminstrative receivers' death**"
+    'liquidation-receiver-death-of-receiver' : "**Notice of administrative receivers' death**"
     'liquidation-receiver-order-to-dispose-of-charged-property' : "**Notice of order to dispose of charged property**"
     'liquidation-receiver-order-to-dispose-of-charged-property-scotland' : "**Authorisation to dispose of secured property**"
     'liquidation-administration-approval-of-proposals-scotland' : "**Notice of deemed approval of proposals**"
