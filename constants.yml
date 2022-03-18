@@ -14,7 +14,6 @@ jurisdiction:
     'england' : "England"
     'noneu' : "Foreign (Non E.U.)"
 company_summary:
-    'registered-overseas-entity' : "Registered overseas entity"
     'other' : "Other"
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited Company"
@@ -50,8 +49,8 @@ company_summary:
     'eeig' : "European Economic Interest Grouping (EEIG)"
     'ukeig' : "United Kingdom Economic Interest Grouping"
     'uk-establishment' : "UK establishment company"
-company_type:
     'registered-overseas-entity' : "Registered overseas entity"
+company_type:
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited company"
     'plc' : "Public limited company"
@@ -87,11 +86,11 @@ company_type:
     'further-education-or-sixth-form-college-corporation' : "Further education or sixth form college corporation"
     'eeig' : "European Economic Interest Grouping (EEIG)"
     'ukeig' : "United Kingdom Economic Interest Grouping"
+    'registered-overseas-entity' : "Registered overseas entity"
 company_subtype:
     'community-interest-company' : "Community Interest Company (CIC)"
     'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
 company_birth_type:
-    'registered-overseas-entity' : "Registered on"
     'private-unlimited' : "Incorporated on"
     'ltd' : "Incorporated on"
     'plc' : "Incorporated on"
@@ -123,6 +122,7 @@ company_birth_type:
     'european-public-limited-liability-company-se' : "Formed on"
     'eeig' : "Registered on"
     'ukeig' : "Registered on"
+    'registered-overseas-entity' : "Registered on"
 proof_status:
     'paper' : "PAPER"
     'electronic' : "ELECTRONIC"
@@ -130,8 +130,6 @@ proof_status:
     'in-dispute' : "IN DISPUTE"
     'pending' : "PENDING"
 company_status:
-    'registered' : "Registered"
-    'removed' : "Removed"
     'active' : "Active"
     'dissolved' : "Dissolved"
     'liquidation' : "Liquidation"
@@ -142,6 +140,8 @@ company_status:
     'administration' : "In Administration"
     'open' : "Open"
     'closed' : "Closed"
+    'registered': "Registered"
+    'removed': "Removed"
 company_status_detail:
     'active' : ""
     'dissolved' : ""
@@ -1522,9 +1522,9 @@ sic_descriptions:
 notes:
     'scottish-insolvency-info' : "The law requires some Scottish company and LLP insolvency documents be filed with the Accountant in Bankruptcy (AIB). Find further details at [[AIB's register of insolvent companies]](http://roi.aib.gov.uk/ROI/)"
 cessation_label_for_status:
-    'removed' : "Removed on"
     'dissolved' : "Dissolved on"
     'converted-closed' : "Closed on"
+    'removed' : "Removed on"
 register_locations:
     'registered-office': "Registered office address"
     'single-alternative-inspection-location': "Registered inspection location"
