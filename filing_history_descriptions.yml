@@ -1105,5 +1105,6 @@ description:
     'liquidation-moratorium-replacement-or-additonal-monitor-following-court-order' : "**Replacement or additional monitor (following court order)**"
     'liquidation-moratorium-monitor-ceasing-to-act-following-court-order' : "**Monitor ceasing to act following court**"
     'registration-overseas-entity' : "**Registration** of an overseas entity"
+    'removal-overseas-entity' : "**Removal** of an overseas entity"
     'annual-update-with-made-up-date' : "**Annual update** made on {made_up_date}"
     'annual-update' : "{original_description}"
