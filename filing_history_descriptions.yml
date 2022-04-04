@@ -690,6 +690,8 @@ description:
     'appoint-corporate-member-limited-liability-partnership' : "**Appointment** of {officer_name} as a member"
     'appoint-manager-company-with-name-date' : "**Appointment** of {officer_name} as a manager on {appointment_date}"
     'appoint-manager-company-with-name' : "**Appointment** of {officer_name} as a manager"
+    'appoint-judicial-factor-with-name-date' : "**Appointment** of {officer_name} as a judicial factor on {appointment_date}"
+    'appoint-judicial-factor-with-name' : "**Appointment** of {officer_name} as a judicial factor"
     'appoint-manager-company' : "**Appointment** of a manager"
     'appoint-person-director-overseas-company-with-name-appointment-date' : "**Appointment** of {officer_name} as a director on {appointment_date}"
     'appoint-person-director-overseas-company-with-name' : "**Appointment** of {officer_name} as a director"
