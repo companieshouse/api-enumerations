@@ -4,7 +4,7 @@ identification_type:
     'eea' : "European Economic Area"
     'uk-limited-company' : "UK Limited Company"
     'other-corporate-body-or-firm' : "Other Corporate Body or Firm"
-    'overseas-entity-corporate-managing-officer' : "Corporate managing officer"
+    'registered-overseas-entity-corporate-managing-officer' : "Corporate managing officer"
 jurisdiction:
     'england-wales' : "England/Wales"
     'wales' : "Wales "
