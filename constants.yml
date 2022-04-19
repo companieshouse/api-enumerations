@@ -4,6 +4,7 @@ identification_type:
     'eea' : "European Economic Area"
     'uk-limited-company' : "UK Limited Company"
     'other-corporate-body-or-firm' : "Other Corporate Body or Firm"
+    'registered-overseas-entity-corporate-managing-officer' : "Corporate managing officer"
 jurisdiction:
     'england-wales' : "England/Wales"
     'wales' : "Wales "
@@ -184,6 +185,7 @@ officer_role:
     'corporate-llp-designated-member': "LLP Designated Member"
     'corporate-llp-member': "LLP Member"
     'corporate-manager-of-an-eeig': "Manager of an EEIG"
+    'corporate-managing-officer': "Managing officer"
     'corporate-member-of-a-management-organ': "Member of a Management Organ"
     'corporate-member-of-a-supervisory-organ': "Member of a Supervisory Organ"
     'corporate-member-of-an-administrative-organ': "Member of an Administrative Organ"
@@ -197,6 +199,7 @@ officer_role:
     'llp-designated-member': "LLP Designated Member"
     'llp-member': "LLP Member"
     'manager-of-an-eeig': "Manager of an EEIG"
+    'managing-officer': "Managing officer"
     'member-of-a-management-organ': "Member of a Management Organ"
     'member-of-a-supervisory-organ': "Member of a Supervisory Organ"
     'member-of-an-administrative-organ': "Member of an Administrative Organ"
