@@ -162,6 +162,12 @@ statement_description:
     'psc-contacted-but-no-response-partnership' : "The partnership has given a notice under Regulation 10 of The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 which has not been complied with"
     'psc-has-failed-to-confirm-changed-details-partnership' : "The partnership has given a notice under Regulation 11 of The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 which has not been complied with"
     'restrictions-notice-issued-to-psc-partnership' : "The partnership has issued a restrictions notice under paragraph 1 of Schedule 2 to The Scottish Partnerships (Register of People with Significant Control) Regulations 2017"
+    'all-beneficial-owners-identified' : "All beneficial owners have been identified and all required information can be provided"
+    'no-beneficial-owner-identified' : "No beneficial owners have been identified"
+    'at-least-one-beneficial-owner-unidentified' : "Some beneficial owners have been identified and all required information can be provided"
+    'information-not-provided-for-at-least-one-beneficial-owner' : "All beneficial owners have been identified but only some required information can be provided"
+    'at-least-one-beneficial-owner-unidentified-and-information-not-provided-for-at-least-one-beneficial-owner' : "Some beneficial owners have been identified and only some required information can be provided"
+
 
 super_secure_description:
     'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force under regulations under section 790ZG in relation to this company"
