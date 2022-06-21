@@ -50,7 +50,7 @@ company_summary:
     'eeig' : "European Economic Interest Grouping (EEIG)"
     'ukeig' : "United Kingdom Economic Interest Grouping"
     'uk-establishment' : "UK establishment company"
-    'registered-overseas-entity' : "Registered overseas entity"
+    'registered-overseas-entity' : "Overseas entity"
 company_type:
     'private-unlimited' : "Private unlimited company"
     'ltd' : "Private limited company"
