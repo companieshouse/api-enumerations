@@ -240,6 +240,7 @@ insolvency_case_type:
     'liquidation-moratorium-court-order-permitting-disposal-of-goods' : "Court order permitting disposal of property or goods"
     'liquidation-moratorium-replacement-or-additonal-monitor-following-court-order' : "Replacement or additional monitor (following court order)"
     'liquidation-moratorium-monitor-ceasing-to-act-following-court-order' : "Monitor ceasing to act following court"
+    'moratorium' : "Moratorium"
 insolvency_case_date_type:
     'wound-up-on' : "Commencement of winding up"
     'petitioned-on' : "Petition date"
