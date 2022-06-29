@@ -160,7 +160,7 @@ filing_type:
     'create-charge-pre-april-2013-limited-liability-partnership-scotland' : "Registration of a charge (LLMG01s)"
     'charge-satisfaction-pre-april-2013-limited-liability-partnership-scotland' : "Statement of satisfaction of a charge in full or part (LLMG02s)"
     'charge-satisfaction-floating-charge-in-scotland-pre-april-2013-limited-liability-partnership' : "Statement of satisfaction of a floating charge (LLMG03s)"
-    'charge-part-or-whole-release-pre-april-2013--limited-liability-partnership-scotland' : "Statement that part or the whole of the property charged has been released (LLMG04s)"
+    'charge-part-or-whole-release-pre-april-2013-limited-liability-partnership-scotland' : "Statement that part or the whole of the property charged has been released (LLMG04s)"
     'charge-released-floating-charge-in-scotland-pre-april-2013--limited-liability-partnership' : "Statement that part or whole of property from a floating charge has been released (LLMG05s)"
     'acquire-charge-limited-liability-partnership-pre-april-2013-scotland' : "Registration of an acquisition (LLMG06s)"
     'create-charge-series-debentures-limited-liability-partnership-scotland' : "Registration of a charge to secure a series of debentures (LLMG07s)"
