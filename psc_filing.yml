@@ -1,0 +1,29 @@
+---
+validation:
+    'filing-resource-not-found' : "Filing resource {filing-resource-id} not found"
+    'ceased-date-before-notified-date' : "Ceased date must be on or after the date the PSC was added"
+    'register-date-before-ceased-date' : "PSC register entry date must be on or after the date the PSC was ceased"
+    'etag-not-match' : "ETag for PSC must match the latest value"
+    'psc-is-ceased' : "PSC is already ceased"
+    'psc-reference-id-not-found' : "Reference ID for PSC not found"
+    'ceased-date-missing' : "Ceased date must be entered"
+    'register-date-missing' : "Register entry date must be entered"
+    'reference-psc-id-missing' : "Reference PSC ID must be entered"
+    'reference-etag-missing' : "Reference ETag must be entered"
+    'super-secure-company' : "A PSC for this company has details protected. You can only file for this company on paper"
+    'company-type-not-allowed' : "This filing cannot be submitted for a "
+    'company-status-not-allowed' : "You cannot submit a filing for a company that is "
+
+company:
+    'status-not-allowed' :
+        - dissolved
+        - converted-closed
+    'type-allowed' :
+        - private-unlimited
+        - ltd
+        - plc
+        - old-public-company
+        - private-limited-guarant-nsc-limited-exemption
+        - private-limited-guarant-nsc
+        - private-unlimited-nsc
+        - private-limited-shares-section-30-exemption
