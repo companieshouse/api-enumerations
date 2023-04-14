@@ -1,0 +1,18 @@
+---
+validation:
+  'director-not-found' : "<director-name> cannot be found"
+  'removal-date-in-past' : "Date <director-name> was removed must be today or in the past"
+  'removal-date-missing' : "Date <director-name> was removed is missing"
+  'director-already-removed' : "<director-name> has already been removed from the company"
+  'removal-date-after-appointment-date' : "Date <director-name> was removed must be on or after the date the director was appointed"
+  'removal-date-invalid' : "Date <director-name> was removed must be a real date"
+  'removal-date-after-incorporation-date' : "The date you enter must be after the company's incorporation date"
+  'removal-date-after-2009' : "Enter a date that is on or after 1 October 2009. If the director was removed before this date, you must file form 288b instead"
+  'officer-role' : "You can only remove directors"
+  'company-dissolved' : "You cannot remove a director from a company that has been dissolved or is in the process of being dissolved"
+  'company-type-not-permitted' : "<company-type> not permitted"
+  'service-unavailable' : "Sorry, this service is unavailable. You will be able to use the service later"
+  'cannot-find-company' : "We cannot find the company"
+  'etag-invalid' : "The Director’s information was updated before you sent this submission. You will need to start again"
+  'etag-blank' : "ETag must be completed"
+  'officer-id-blank' : "The Officer ID must be completed"
