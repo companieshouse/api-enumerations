@@ -16,3 +16,10 @@ validation:
   'etag-invalid' : "The Director’s information was updated before you sent this submission. You will need to start again"
   'etag-blank' : "ETag must be completed"
   'officer-id-blank' : "The Officer ID must be completed"
+validation_web:
+  'removal-date-in-past' : "Enter a date that is in the past"
+  'removal-date-missing' : "Date director was removed must be a real date"
+  'removal-date-after-appointment-date' : "Enter a date that is on or after the date the director was appointed"
+  'removal-date-invalid' : "Date director was removed must be a real date"
+  'removal-date-after-incorporation-date' : "Enter a date that is on or after the company's incorporation date"
+  'removal-date-after-2009' : "Enter a date that is on or after 1 October 2009. If the director was removed before this date, you must file form 288b instead"
