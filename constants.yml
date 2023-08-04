@@ -1548,5 +1548,5 @@ partial_data_available:
     'full-data-available-from-the-company' : "Contact the company directly for further information"
     'full-data-available-from-financial-conduct-authority-mutuals-public-register' : "Refer to the Financial Conduct Authority Mutuals Public Register for further information about this company"
 corporate_annotation_type:
-    'confirmed-intelligence-of-unusual-behaviour-from-the-fca' : "Confirmed Intelligence of unusual behaviour from the FCA"
-    'directors-unverified' : "Companies House has been unable to verify any of the directors for this company."
+    'confirmed-intelligence-of-unusual-behaviour-from-the-fca' : "Confirmed intelligence of unusual behaviour from the FCA"
+    'directors-unverified' : "Companies House has been unable to verify any of the directors for this company"
