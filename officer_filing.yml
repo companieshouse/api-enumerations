@@ -46,3 +46,5 @@ validation_web:
   'removal-date-after-appointment-date' : "Enter a date that is on or after the date the director was appointed"
   'removal-date-after-incorporation-date' : "Enter a date that is on or after the company's incorporation date"
   'removal-date-after-2009' : "Enter a date that is on or after 1 October 2009. If the director was removed before this date, you must file form 288b instead"
+  'previous-names-radio-unselected': "Select yes if the director used a different name for business purposes in the last 20 years"
+  'previous-names-missing': "Enter the director’s previous name or names"
