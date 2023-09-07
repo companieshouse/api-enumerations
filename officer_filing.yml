@@ -36,6 +36,14 @@ validation:
   'date-of-birth-underage' : "You can only appoint a person as a director if they are at least 16 years old"
   'occupation-length': "Occupation must be 100 characters or less"
   'occupation-characters': "Occupation must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
+  'nationality-length': "Nationality must be 50 characters or less"
+  'nationality-length49': "For technical reasons, we are currently unable to accept multiple nationalities with a total of more than 49 characters including commas"
+  'nationality-length48': "For technical reasons, we are currently unable to accept multiple nationalities with a total of more than 48 characters including commas"
+  'invalid-nationality': "Select a nationality from the list"
+  'nationality-blank': "Enter the director’s nationality"
+  'duplicate-nationality2': "Enter a different second nationality"
+  'duplicate-nationality3': "Enter a different third nationality"
+
 validation_web:
   "removal-date-missing-day" : "Date the director was removed must include a day"
   "removal-date-missing-month" : "Date the director was removed must include a month"
