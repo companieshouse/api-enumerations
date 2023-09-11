@@ -4,7 +4,7 @@ validation:
   'removal-date-in-past' : "Date <director-name> was removed must be today or in the past"
   'appointment-date-in-past' : "Enter a date that is today or in the past"
   'removal-date-missing' : "Date <director-name> was removed is missing"
-  'appointment-date-missing' : "Enter the day the director was appointed"
+  'appointment-date-missing' : "Enter the date the director was appointed"
   'director-already-removed' : "<director-name> has already been removed from the company"
   'removal-date-after-appointment-date' : "Date <director-name> was removed must be on or after the date the director was appointed"
   'removal-date-invalid' : "Date <director-name> was removed must be a real date"
