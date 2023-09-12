@@ -37,7 +37,7 @@ validation:
   'occupation-length': "Occupation must be 100 characters or less"
   'occupation-characters': "Occupation must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'nationality-length': "Nationality must be 50 characters or less"
-  'nationality-length49': "For technical reasons, we are currently unable to accept multiple nationalities with a total of more than 49 characters including commas"
+  'nationality-length49': "For technical reasons, we are currently unable to accept dual nationalities with a total of more than 49 characters including commas"
   'nationality-length48': "For technical reasons, we are currently unable to accept multiple nationalities with a total of more than 48 characters including commas"
   'invalid-nationality': "Select a nationality from the list"
   'nationality-blank': "Enter the director’s nationality"
