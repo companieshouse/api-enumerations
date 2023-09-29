@@ -34,6 +34,7 @@ validation:
   'date-of-birth-blank' : "Enter the director’s date of birth"
   'date-of-birth-overage' : "You can only appoint a person as a director if they are under 110 years old"
   'date-of-birth-underage' : "You can only appoint a person as a director if they are at least 16 years old"
+  'appointment-date-underage' : "You can only appoint a person as director if they are at least 16 years old on their appointment date"
   'occupation-length': "Occupation must be 100 characters or less"
   'occupation-characters': "Occupation must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'nationality-length': "Nationality must be 50 characters or less"
