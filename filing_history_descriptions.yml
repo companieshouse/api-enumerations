@@ -1113,3 +1113,5 @@ description:
     'removal-overseas-entity' : "**Removal** of an overseas entity"
     'annual-update-with-made-up-date' : "**Annual update** made on {made_up_date}"
     'annual-update' : "{original_description}"
+    'default-companies-house-service-address-applied-officer': "**Address of officer** {officer_name} changed to {company_number} - {default_address} on {change_date}"
+    'default-companies-house-service-address-applied-psc': "**Address of person with significant control** {psc_name} changed to {company_number} - {default_address} on {change_date}"
