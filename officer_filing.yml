@@ -87,6 +87,8 @@ validation:
   'residential-region-characters': "County, state, province or region for the director's home address must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'residential-region-length': "County, state, province or region for the director's home address must be 50 characters or less"
   'protected-details-missing': "Confirm if the director has ever applied to protect their details at Companies House"
+  'consent-to-act-missing': "Confirm that by submitting this information, the person named has consented to act as director"
+  'consent-to-act-false': "You will not be able to continue if the person named has not consented to act as director. Confirm consent to continue."
 
 validation_web:
   'removal-date-missing-day' : "Date the director was removed must include a day"
