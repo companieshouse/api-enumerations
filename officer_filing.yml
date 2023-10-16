@@ -166,7 +166,7 @@ validation_web:
   'postal-code-blank': "Enter a UK postcode"
   'postal-code-invalid': "We cannot find this postcode. Enter a different one, or enter the address manually"
   'postal-code-characters': "UK postcode must only include letters a to z, numbers and spaces"
-  'postal-code-length': "UK postcode for must be 20 characters or less"
+  'postal-code-length': "UK postcode must be 20 characters or less"
   'residential-postal-code-without-country': "Select a country from the list before entering a postcode"
   'residential-address-line-two-characters': "Address line 2 must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'residential-address-line-two-length': "Address line 2 must be 50 characters or less"
