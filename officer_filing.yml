@@ -172,3 +172,4 @@ validation_web:
   'residential-address-line-two-length': "Address line 2 must be 50 characters or less"
   'residential-region-characters': "County, state, province or region must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'residential-region-length': "County, state, province or region must be 50 characters or less"
+  'residential-address-blank': "Select the address where the director lives"
