@@ -145,6 +145,7 @@ validation_web:
   'correspondence-address-line-two-length': "Address line 2 must be 50 characters or less"
   'correspondence-region-characters': "County, state, province or region must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'correspondence-region-length': "County, state, province or region must be 50 characters or less"
+  'correspondence-address-blank': "Select the director’s correspondence address"
   'residential-premises-characters': "Property name or number must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'residential-premises-length': "Property name or number must be 200 characters or less"
   'residential-premises-blank': "Enter a property name or number"
