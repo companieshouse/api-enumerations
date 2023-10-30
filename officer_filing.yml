@@ -89,6 +89,7 @@ validation:
   'protected-details-missing': "Confirm if the director has ever applied to protect their details at Companies House"
   'consent-to-act-missing': "Confirm that by submitting this information, the person named has consented to act as director"
   'consent-to-act-false': "You will not be able to continue if the person named has not consented to act as director. Confirm consent to continue."
+  'address-links-multiple-flags': "The maximum number of address links that can be established is one"
 
 validation_web:
   'removal-date-missing-day' : "Date the director was removed must include a day"
