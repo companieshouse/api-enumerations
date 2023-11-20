@@ -193,3 +193,6 @@ validation_web:
   'country-characters': "Country must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
   'country-length': "Country must be 50 characters or less"
   'country-invalid': "Select a country from the list"
+  'generic-postal-code-blank': "Enter a postcode or ZIP"
+  'generic-postal-code-characters': "Postcode or ZIP must only include letters a to z, and common special characters such as hyphens, spaces and apostrophes"
+  'generic-postal-code-length': "Postcode or ZIP must be 20 characters or less"
