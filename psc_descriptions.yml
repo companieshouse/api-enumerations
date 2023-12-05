@@ -167,6 +167,8 @@ statement_description:
     'at-least-one-beneficial-owner-unidentified' : "Some beneficial owners have been identified and all required information can be provided"
     'information-not-provided-for-at-least-one-beneficial-owner' : "All beneficial owners have been identified but only some required information can be provided"
     'at-least-one-beneficial-owner-unidentified-and-information-not-provided-for-at-least-one-beneficial-owner' : "Some beneficial owners have been identified and only some required information can be provided"
+    'nobody-has-become-or-ceased-to-be-a-beneficial-owner' : “Nobody has become or ceased to be a beneficial owner during the update period”
+    'somebody-has-become-or-ceased-to-be-a-beneficial-owner' : “Somebody has become or ceased to be a beneficial owner during the update period”
 
 
 super_secure_description:
