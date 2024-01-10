@@ -8,7 +8,7 @@ validation:
   'change-date-missing' : "Enter the date the director’s details changed"
   'change-date-before-2009' : "Date the director’s details changed must be on or after 1 October 2009."
   'change-date-in-past' : "Enter a date that is today or in the past"
-  'change-date-before-officer-appointment-date': 'Enter a date that is on or after the date the director was appointed'
+  'change-date-before-officer-appointment-date': "Enter a date that is on or after the date the director was appointed"
   'change-date-after-incorporation-date' : "Enter a date that is on or after the company's incorporation date"
   'director-already-removed' : "<director-name> has already been removed from the company"
   'removal-date-after-appointment-date' : "Date <director-name> was removed must be on or after the date the director was appointed"
