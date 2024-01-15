@@ -18,5 +18,5 @@ product_type:
   'missing-image-delivery-change-of-name'     : 'Missing image delivery change of name'
   'missing-image-delivery-capital'            : 'Missing image delivery capital'
   'missing-image-delivery-misc'               : 'Missing image delivery misc'
-  'digital-certificate'                       : 'Digtial Certificate'
-  'digital-certified-document'                : 'Digital Certified Document'
+  'certified-copy-digital'                    : 'Digital Certified Document'
+  'certified-copy-incorporation-digital'      : 'Digital Certified Incorporation Document'
