@@ -97,6 +97,11 @@ validation:
   'consent-to-act-missing': "Confirm that by submitting this information, the person named has consented to act as director"
   'consent-to-act-false': "You will not be able to continue if the person named has not consented to act as director. Confirm consent to continue."
   'address-links-multiple-flags': "The maximum number of address links that can be established is one"
+  "name-matches-chips-data": "The name data submitted cannot pass validation as it is not an update from the previously submitted data"
+  "nationality-matches-chips-data": "The nationality data submitted cannot pass validation as it is not an update from the previously submitted data"
+  "occupation-matches-chips-data": "The occupation data submitted cannot pass validation as it is not an update from the previously submitted data"
+  "residential-address-matches-chips-data": "The home address data submitted cannot pass validation as it is not an update from the previously submitted data"
+  "correspondence-matches-chips-data": "The correspondence address data submitted cannot pass validation as it is not an update from the previously submitted data"
 
 validation_web:
   'removal-date-missing-day' : "Date the director was removed must include a day"
