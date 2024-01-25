@@ -25,9 +25,12 @@ description_identifier:
     'order-disqualifying-a-person-instructing-an-unfit-director' : "Order disqualifying a person instructing an unfit director"
     'undertaking-disqualifying-a-person-instructing-an-unfit-director-of-an-insolvent-company' : "Disqualification undertaking disqualifying a person instructing an unfit director of an insolvent company"
     'undertaking-disqualifying-a-person-instructing-an-unfit-director' : "Disqualification undertaking disqualifying a person instructing an unfit director"
+    'director-disqualification-sanctions': "Director Disqualification Sanctions"
 act:
     'company-directors-disqualification-act-1986' : "Company Directors Disqualification Act 1986"
     'company-directors-disqualification-northern-ireland-order-2002' : "Company Directors Disqualification (Northern Ireland) Order 2002"
+    'sanctions-anti-money-laundering-act-2018' : "Sanctions and Anti-Money Laundering Act 2018"
 disqualification_type:
     'court-order' : "Court order"
     'undertaking' : "Undertaking"
+    'sanction' : "Sanction"
