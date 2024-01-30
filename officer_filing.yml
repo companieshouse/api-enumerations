@@ -17,7 +17,7 @@ validation:
   'appointment-date-after-incorporation-date' : "Date the director was appointed must be on or after the incorporation date"
   'removal-date-after-2009' : "Enter a date that is on or after 1 October 2009. If the director was removed before this date, you must file form 288b instead"
   'officer-role' : "You can only remove directors"
-  'company-dissolved' : "You cannot remove a director from a company that has been dissolved or is in the process of being dissolved"
+  'company-dissolved' : "You cannot add or remove a director from a company that has been dissolved or is in the process of being dissolved"
   'company-type-not-permitted' : "<company-type> not permitted"
   'service-unavailable' : "Sorry, this service is unavailable. You will be able to use the service later"
   'cannot-find-company' : "We cannot find the company"
