@@ -102,6 +102,7 @@ validation:
   "occupation-matches-chips-data": "The occupation data submitted cannot pass validation as it is not an update from the previously submitted data"
   "residential-address-matches-chips-data": "The home address data submitted cannot pass validation as it is not an update from the previously submitted data"
   "correspondence-matches-chips-data": "The correspondence address data submitted cannot pass validation as it is not an update from the previously submitted data"
+  "ch01-blank-submission": "Submit a change to the officer details before submitting"
 
 validation_web:
   'removal-date-missing-day' : "Date the director was removed must include a day"
