@@ -74,6 +74,7 @@ description:
     'liquidation-in-administration-extension-of-time-approval-scotland' : "Notice of **Extension of time to seek approval of administrator's proposals**"
     'liquidation-in-administration-revised-proposals' : "**Statement of administrator's revised proposal**"
     'liquidation-in-administration-result-creditors-meeting' : "**Result of meeting of creditors**"
+    'liquidation-in-administration-revision-administrators-proposals' : "**Revision of administrator’s proposals**"
     'liquidation-in-administration-revision-administrators-proposals-scotland' : "**Revision of administrator’s proposals**"
     'liquidation-in-administration-result-creditors-decision-scotland' : "**Creditors’ decision on administrator’s proposals**"
     'liquidation-in-administration-progress-report-with-brought-down-date' : "**Administrator's progress report** to {brought_down_date}"
