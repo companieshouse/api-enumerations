@@ -169,12 +169,12 @@ statement_description:
     'at-least-one-beneficial-owner-unidentified-and-information-not-provided-for-at-least-one-beneficial-owner' : "Some beneficial owners have been identified and only some required information can be provided"
     'nobody-has-become-or-ceased-to-be-a-beneficial-owner' : "Nobody has become or ceased to be a beneficial owner during the update period"
     'somebody-has-become-or-ceased-to-be-a-beneficial-owner' : "Somebody has become or ceased to be a beneficial owner during the update period"
-    'no-change-beneficial-owner-relevant-period' : "The entity believes nobody has become or ceased to be a beneficial owner"
-    'change-beneficial-owner-relevant-period' : "The entity believes somebody has become or ceased to be a beneficial owner"
-    'no-trust-involved-relevant-period' : "The entity believes nobody has become or ceased to be a beneficial owner due to being a trustee"
-    'trust-involved-relevant-period' : "The entity believes somebody has become or ceased to be a beneficial owner due to being a trustee"
-    'no-change-beneficiary-relevant-period' : "The entity believes nobody has become or ceased to be a beneficiary"
-    'change-beneficiary-relevant-period' : "The entity believes somebody has become or ceased to be a beneficiary"
+    'no-change-beneficial-owner-relevant-period' : "The entity believes nobody has become or ceased to be a beneficial owner during the relevant period"
+    'change-beneficial-owner-relevant-period' : "The entity believes somebody has become or ceased to be a beneficial owner during the relevant period"
+    'no-trust-involved-relevant-period' : "The entity believes nobody has become or ceased to be a beneficial owner due to being a trustee during the relevant period"
+    'trust-involved-relevant-period' : "The entity believes somebody has become or ceased to be a beneficial owner due to being a trustee during the relevant period"
+    'no-change-beneficiary-relevant-period' : "The entity believes nobody has become or ceased to be a beneficiary during the relevant period"
+    'change-beneficiary-relevant-period' : "The entity believes somebody has become or ceased to be a beneficiary during the relevant period"
 
 super_secure_description:
     'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force under regulations under section 790ZG in relation to this company"
