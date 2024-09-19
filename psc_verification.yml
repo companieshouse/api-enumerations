@@ -4,6 +4,7 @@ validation:
   'etag-not-match': "ETag for PSC must match the latest value"
   'psc-is-ceased': "PSC is ceased"
   'psc-appointment-id-not-found': "Appointment ID for PSC not found"
+  'psc-appointment-id-missing': "An appointment ID for the PSC must be provided"
   'reference-etag-missing': "Reference ETag must be entered"
   'super-secure-company': "A PSC for this company has details protected. You can only file for this PSC on paper"
   'company-type-not-allowed': "This filing cannot be submitted for this company type"
