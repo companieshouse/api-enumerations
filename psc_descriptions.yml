@@ -108,7 +108,7 @@ short_description:
     'voting-rights-more-than-25-percent-registered-overseas-entity' : "Ownership of voting rights - More than 25%"
     'voting-rights-more-than-25-percent-as-trust-registered-overseas-entity' : "Holds voting rights - More than 25% as trustees of a trust"
     'voting-rights-more-than-25-percent-as-firm-registered-overseas-entity' : "Ownership of voting rights - More than 25% as a member of a firm"
-    'voting-rights-more-than-25-percent-as-control-over-trust-registered-overseas-entity': "Has significant influence over a trust which holds more than 25% of the voting rights in the entity"
+    'voting-rights-more-than-25-percent-as-control-over-trust-registered-overseas-entity' : "Has significant influence over a trust which holds more than 25% of the voting rights in the entity"
     'voting-rights-more-than-25-percent-as-control-over-firm-registered-overseas-entity' : "Has significant influence over a firm which has more than 25% of the voting rights in the entity"
     'right-to-appoint-and-remove-directors' : "Right to appoint or remove directors"
     'right-to-appoint-and-remove-directors-as-trust' : "Right to appoint or remove directors with control over the trustees of a trust"
