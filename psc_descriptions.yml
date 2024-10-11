@@ -80,6 +80,12 @@ description:
     'right-to-appoint-and-remove-directors-registered-overseas-entity' : "The beneficial owner holds the right, directly or indirectly, to appoint or remove a majority of the board of directors of the entity."
     'right-to-appoint-and-remove-directors-as-trust-registered-overseas-entity' : "Beneficial owner is a trustee of a trust and: the trustees of that trust (in their capacity as such) hold the right, directly or indirectly, to appoint or remove a majority of the board of directors of the company."
     'right-to-appoint-and-remove-directors-as-firm-registered-overseas-entity' : "The beneficial owner is a member of a firm that is not a legal person under its governing law, and: the members of that firm (in their capacity as such) hold the right, directly or indirectly, to appoint or remove a majority of the board of directors of the company."
+    'registered-owner-as-nominee-person-england-wales-registered-overseas-entity' : "The overseas entity is the registered owner of property or land in the following UK jurisdictions, as a nominee for this person: England and Wales."
+    'registered-owner-as-nominee-person-scotland-registered-overseas-entity' : "The overseas entity is the registered owner of property or land in the following UK jurisdictions, as a nominee for this person: Scotland."
+    'registered-owner-as-nominee-person-northern-ireland-registered-overseas-entity' : "The overseas entity is the registered owner of property or land in the following UK jurisdictions, as a nominee for this person: Northern Ireland."
+    'registered-owner-as-nominee-another-entity-england-wales-registered-overseas-entity' : "The overseas entity is the registered owner of property or land in the following UK jurisdictions, as a nominee for another entity of which this person is a registered beneficial owner: England and Wales."
+    'registered-owner-as-nominee-another-entity-scotland-registered-overseas-entity' : "The overseas entity is the registered owner of property or land in the following UK jurisdictions, as a nominee for another entity of which this person is a registered beneficial owner: Scotland."
+    'registered-owner-as-nominee-another-entity-northern-ireland-registered-overseas-entity' : "The overseas entity is the registered owner of property or land in the following UK jurisdictions, as a nominee for another entity of which this person is a registered beneficial owner: Northern Ireland."
 
 short_description:
     'ownership-of-shares-25-to-50-percent' : "Ownership of shares – More than 25% but not more than 50%"
@@ -162,6 +168,12 @@ short_description:
     'right-to-appoint-and-remove-directors-registered-overseas-entity' : "Right to appoint or remove directors"
     'right-to-appoint-and-remove-directors-as-trust-registered-overseas-entity' : "Right to appoint or remove directors as the trustees of a trust"
     'right-to-appoint-and-remove-directors-as-firm-registered-overseas-entity' : "Right to appoint or remove members as a member of a firm"
+    'registered-owner-as-nominee-person-england-wales-registered-overseas-entity' : "Overseas Entity holds land or property in England and Wales as a nominee for this person"
+    'registered-owner-as-nominee-person-scotland-registered-overseas-entity' : "Overseas Entity holds land in Scotland, as nominee for this person"
+    'registered-owner-as-nominee-person-northern-ireland-registered-overseas-entity' : "Overseas Entity holds land or property in England and Wales as a nominee for this person"
+    'registered-owner-as-nominee-another-entity-england-wales-registered-overseas-entity' : "Overseas Entity holds land in England and Wales as a nominee for another entity for which this person is the registered beneficial owner"
+    'registered-owner-as-nominee-another-entity-scotland-registered-overseas-entity' : "Overseas Entity holds land in Scotland as a nominee for another entity for which this person is the registered beneficial owner"
+    'registered-owner-as-nominee-another-entity-northern-ireland-registered-overseas-entity' : "Overseas Entity holds land in Northern Ireland as a nominee for another entity for which this person is the registered beneficial owner"
 
 statement_description:
     'no-individual-or-entity-with-signficant-control' : "The company knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the company"
