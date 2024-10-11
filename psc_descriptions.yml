@@ -170,7 +170,7 @@ short_description:
     'right-to-appoint-and-remove-directors-as-firm-registered-overseas-entity' : "Right to appoint or remove members as a member of a firm"
     'registered-owner-as-nominee-person-england-wales-registered-overseas-entity' : "Overseas Entity holds land or property in England and Wales as a nominee for this person"
     'registered-owner-as-nominee-person-scotland-registered-overseas-entity' : "Overseas Entity holds land in Scotland, as nominee for this person"
-    'registered-owner-as-nominee-person-northern-ireland-registered-overseas-entity' : "Overseas Entity holds land or property in England and Wales as a nominee for this person"
+    'registered-owner-as-nominee-person-northern-ireland-registered-overseas-entity' : "Overseas Entity holds land in Northern Ireland, as nominee for this person"
     'registered-owner-as-nominee-another-entity-england-wales-registered-overseas-entity' : "Overseas Entity holds land in England and Wales as a nominee for another entity for which this person is the registered beneficial owner"
     'registered-owner-as-nominee-another-entity-scotland-registered-overseas-entity' : "Overseas Entity holds land in Scotland as a nominee for another entity for which this person is the registered beneficial owner"
     'registered-owner-as-nominee-another-entity-northern-ireland-registered-overseas-entity' : "Overseas Entity holds land in Northern Ireland as a nominee for another entity for which this person is the registered beneficial owner"
