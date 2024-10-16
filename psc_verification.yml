@@ -12,6 +12,12 @@ validation:
   'json-syntax-prefix': "JSON parse error: "
   'patch-merge-error-prefix': "Failed to merge patch request: "
   'unknown-property-name': "Property is not recognised: {property-name}"
+  ‘unknown-uvid’: "UVID is not recognised"
+  ‘expired-uvid’: "UVID has expired"
+  ‘invalid-uvid’: "UVID is invalid"
+  ‘dob-mismatch’: "Date of birth does not match"
+  ‘forenames-mismatch’: "Forename(s) do not match: a name mismatch reason must be provided"
+  ‘surname-mismatch’: "Surname does not match: a name mismatch reason must be provided"
 
 company:
   'status-not-allowed':
