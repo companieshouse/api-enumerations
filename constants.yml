@@ -1550,3 +1550,5 @@ partial_data_available:
 corporate_annotation_type:
     'confirmed-intelligence-of-unusual-behaviour-from-the-fca' : "Confirmed intelligence of unusual behaviour from the FCA"
     'directors-unverified' : "Companies House has been unable to verify any of the directors for this company"
+    'strike-off-under-section-1002a-of-the-companies-act-2006-incorporation' : "The registrar is satisfied there are grounds to strike off this company under section 1002A of the Companies Act 2006. This relates to information or a statement in an application for incorporation that is misleading, false or deceptive."
+    'strike-off-under-section-1002a-of-the-companies-act-2006-restoration' : "The registrar is satisfied there are grounds to strike off this company under section 1002A of the Companies Act 2006. This relates to information or a statement in an application for restoration that is misleading, false or deceptive."
