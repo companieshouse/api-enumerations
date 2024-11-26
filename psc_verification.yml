@@ -18,6 +18,7 @@ validation:
   'dob-mismatch': "Date of birth does not match"
   'forenames-mismatch': "Forename(s) do not match: a name mismatch reason must be provided"
   'surname-mismatch': "Surname does not match: a name mismatch reason must be provided"
+  'no-name-mismatch-reason': "The name on the public register is different to the name this PSC used for identity verification: a name mismatch reason must be provided"
 
 company:
   'status-not-allowed':
