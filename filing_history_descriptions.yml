@@ -617,6 +617,7 @@ description:
     'accounts-with-accounts-type-total-exemption-full' : "**Total exemption full accounts** made up to {made_up_date}"
     'accounts-with-accounts-type-total-exemption-small' : "**Total exemption small company accounts** made up to {made_up_date}"
     'accounts-with-accounts-type-audit-exemption-subsiduary' : "**Audit exemption subsidiary accounts** made up to {made_up_date}"
+    'accounts-with-accounts-type-filing-exemption-subsiduary' : "**Filing exemption subsidiary accounts** made up to {made_up_date}"
     'accounts-with-made-up-date' : "**Accounts** made up to {made_up_date}"
     'accounts' : "**Accounts**"
     'accounts-amended-with-accounts-type-dormant' : "**Amended accounts for a dormant company** made up to {made_up_date}"
