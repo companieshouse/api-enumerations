@@ -1117,4 +1117,3 @@ description:
     'annual-update' : "{original_description}"
     'legacy': "{description}"
     'default-companies-house-service-address-applied-officer': "**Address of officer** {officer_name} changed to {company_number} - {default_address} on {change_date}"
-    'default-companies-house-service-address-applied-psc': "**Address of person with significant control** {psc_name} changed to {company_number} - {default_address} on {change_date}"
