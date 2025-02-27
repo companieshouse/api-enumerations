@@ -25,6 +25,7 @@ company:
     - dissolved
     - converted-closed
   'type-allowed':
+    - llp
     - private-unlimited
     - ltd
     - plc
