@@ -1,5 +1,6 @@
 ---
 validation:
+  'NotBlank': "Property {property-name} is required and must not be blank"
   'filing-resource-not-found': "Filing resource {filing-resource-id} not found"
   'etag-not-match': "ETag for PSC must match the latest value"
   'psc-is-ceased': "PSC is ceased"
