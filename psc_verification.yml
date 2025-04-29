@@ -22,6 +22,7 @@ validation:
   'no-name-mismatch-reason': "The name on the public register is different to the name this PSC used for identity verification: a name mismatch reason must be provided"
   'psc-already-verified': "This PSC has already provided their identity verification details"
   'psc-cannot-verify-yet': "This PSC cannot provide their identity verification details until {start-date}. They must provide their details within 14 days of this date"
+  'verification-details-not-provided': "Your filing will not be successful if you have not provided the PSC's identity verification details. This includes their Companies House personal code and verification statement"
 
 company:
   'status-not-allowed':
