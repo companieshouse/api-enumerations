@@ -1550,3 +1550,6 @@ partial_data_available:
 corporate_annotation_type:
     'strike-off-under-section-1002a-of-the-companies-act-2006-incorporation' : "The registrar is intending to take, or has taken, steps to strike off this company under section 1002A of the Companies Act 2006. This relates to information or a statement in an application for incorporation that is misleading, false or deceptive."
     'strike-off-under-section-1002a-of-the-companies-act-2006-restoration' : "The registrar is intending to take, or has taken, steps to strike off this company under section 1002A of the Companies Act 2006. This relates to information or a statement in an application for restoration that is misleading, false or deceptive."
+    'oe-dissolved-wound-up-or-ceased-to-exist' :  "The registrar has reason to believe that an overseas entity has either dissolved or been wound up or has otherwise ceased to exist"
+    'oe-not-complied-with-companies-house-act' :  "A person has not fully complied with a notice requiring further information given under section 1092A(1) of the Companies Act 2006"
+    'oe-failed-to-provide-sufficient-evidence' :  "A person has verified a statutory document on behalf of an OE but has failed to provide sufficient evidence to the registrar that they are supervised by a supervisory authority"
