@@ -1122,7 +1122,7 @@ description:
     'default-companies-house-service-address-applied-officer': "**Address of officer** {officer_name} changed to {company_number} - {default_address} on {change_date}"
     'default-companies-house-service-address-applied-psc': "**Address of person with significant control** {psc_name} changed to {company_number} - {default_address} on {change_date}"
     'default-companies-house-service-address-applied-member': "**Address of member** {officer_name} changed to {company_number} - {default_address} on {change_date}"
-        'replacement-filing-of-confirmation-statement-with-made-up-date' : "**Replacement Filing** of Confirmation Statement dated {made_up_date}"
+    'replacement-filing-of-confirmation-statement-with-made-up-date' : "**Replacement Filing** of Confirmation Statement dated {made_up_date}"
     'replacement-filing-of-director-appointment-with-name' : "**Replacement Filing** for the appointment of {officer_name} as a director"
     'replacement-filing-of-secretary-appointment-with-name' : "**Replacement Filing** for the appointment of {officer_name} as a secretary"
     'replacement-filing-of-change-of-director-details-with-name' : "**Replacement Filing** to change the details of {officer_name} as a director"
