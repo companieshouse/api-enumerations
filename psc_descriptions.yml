@@ -205,5 +205,5 @@ statement_description:
     'change-beneficiary-relevant-period' : "The entity believes somebody has become or ceased to be a beneficiary during the relevant period"
 
 super_secure_description:
-    'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force under regulations under section 790ZG in relation to this company"
+    'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on disclosing any of the individual's details are in force"
     'super-secure-beneficial-owner' : "The beneficial owners details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force"
