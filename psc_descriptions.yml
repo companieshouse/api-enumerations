@@ -203,7 +203,6 @@ statement_description:
     'trust-involved-relevant-period' : "The entity believes somebody has become or ceased to be a beneficial owner due to being a trustee during the relevant period"
     'no-change-beneficiary-relevant-period' : "The entity believes nobody has become or ceased to be a beneficiary during the relevant period"
     'change-beneficiary-relevant-period' : "The entity believes somebody has become or ceased to be a beneficiary during the relevant period"
-    'awaiting-confirmation-from-psc' : “The company knows or believes it has a PSC but has not yet had confirmation”
 
 super_secure_description:
     'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on disclosing any of the individual's details are in force"
