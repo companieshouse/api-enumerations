@@ -180,8 +180,8 @@ statement_description:
     'psc-exists-but-not-identified' : "The company knows or has reasonable cause to believe that there is a registrable person in relation to the company but it has not identified the registrable person"
     'psc-details-not-confirmed' : "The company has identified a registrable person in relation to the company but all the required particulars of that person have not been confirmed"
     'steps-to-find-psc-not-yet-completed' : "The company has not yet completed taking reasonable steps to find out if there is anyone who is a registrable person or a registrable relevant legal entity in relation to the company"
-    'psc-contacted-but-no-response' : "The company has given a notice under section 790D of the Act which has not been complied with"
-    'psc-has-failed-to-confirm-changed-details' : "{linked_psc_name} has failed to comply with a notice given by the company under section 790E of the Act"
+    'psc-contacted-but-no-response' : "The company has given a notice under section 790D or DA of the Act which has not been complied with"
+    'psc-has-failed-to-confirm-changed-details' : "{linked_psc_name} has failed to comply with a notice given by the company under section 790E or EA of the Act"
     'restrictions-notice-issued-to-psc' : "The company has issued a restrictions notice under paragraph 1 of Schedule 1B to the Act"
     'no-individual-or-entity-with-signficant-control-partnership' : "The partnership knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the partnership"
     'psc-exists-but-not-identified-partnership' : "The partnership knows or has reasonable cause to believe that there is a registrable person in relation to the partnership but it has not identified the registrable person"
@@ -203,7 +203,8 @@ statement_description:
     'trust-involved-relevant-period' : "The entity believes somebody has become or ceased to be a beneficial owner due to being a trustee during the relevant period"
     'no-change-beneficiary-relevant-period' : "The entity believes nobody has become or ceased to be a beneficiary during the relevant period"
     'change-beneficiary-relevant-period' : "The entity believes somebody has become or ceased to be a beneficiary during the relevant period"
+    'awaiting-confirmation-from-psc' : “The company knows or believes it has a PSC but has not yet had confirmation”
 
 super_secure_description:
-    'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force under regulations under section 790ZG in relation to this company"
+    'super-secure-persons-with-significant-control' : "The person with significant control's details are not shown because restrictions on disclosing any of the individual's details are in force"
     'super-secure-beneficial-owner' : "The beneficial owners details are not shown because restrictions on using or disclosing any of the individual’s particulars are in force"
