@@ -91,6 +91,9 @@ company_type:
 company_subtype:
     'community-interest-company' : "Community Interest Company (CIC)"
     'private-fund-limited-partnership' : "Private Fund Limited Partnership (PFLP)"
+    'slp' : "Scottish Limited Partnership (SLP)"
+    'pflp' : "Private Fund Limited Partnership (PFLP)"
+    'spflp' : "Scottish Private Fund Limited Partnership (SPFLP)"
 company_birth_type:
     'private-unlimited' : "Incorporated on"
     'ltd' : "Incorporated on"
