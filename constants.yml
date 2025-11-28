@@ -1527,7 +1527,7 @@ sic_descriptions:
     '99000' : "Activities of extraterritorial organisations and bodies"
     '99999' : "Dormant Company"
 notes:
-    'scottish-insolvency-info' : "The law requires some Scottish company and LLP insolvency documents be filed with the Accountant in Bankruptcy (AIB). Find further details at [[AIB's register of insolvent companies]](http://roi.aib.gov.uk/ROI/)"
+    'scottish-insolvency-info' : "The law requires some Scottish company and LLP insolvency documents be filed with the Accountant in Bankruptcy (AIB). Find further details at [[AIB's register of insolvent companies]](https://aib.gov.uk/systems/register-of-insolvencies)"
 cessation_label_for_status:
     'dissolved' : "Dissolved on"
     'converted-closed' : "Closed on"
