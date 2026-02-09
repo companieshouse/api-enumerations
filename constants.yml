@@ -5,6 +5,7 @@ identification_type:
     'uk-limited-company' : "UK Limited Company"
     'other-corporate-body-or-firm' : "Other Corporate Body or Firm"
     'registered-overseas-entity-corporate-managing-officer' : "Corporate managing officer"
+    'limited-partnership-corporate-partner': "Limited Partnership Corporate Partner"
 jurisdiction:
     'england-wales' : "England/Wales"
     'wales' : "Wales "
