@@ -1561,3 +1561,9 @@ term:
     'by-agreement' : "By agreement"
     'until-dissolution' : "Until dissolution"
     'none' : "No set term"
+capital_contribution_sub_type:
+    'money' : "Money"
+    'land-or-property' : "Land or property"
+    'shares' : "Shares"
+    'services-or-goods' : "Services or goods"
+    'any-other-asset' : "Any other asset"
