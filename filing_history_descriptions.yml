@@ -769,6 +769,8 @@ description:
     'termination-corporate-general-partner-limited-partnership-with-name-termination-date': "**Cessation of appointment** of {officer_name} as a general partner on {termination_date}"
     'termination-person-limited-partner-limited-partnership-with-name-termination-date': "**Cessation of appointment** of {officer_name} as a limited partner on {termination_date}"
     'termination-corporate-limited-partner-limited-partnership-with-name-termination-date': "**Cessation of appointment** of {officer_name} as a limited partner on {termination_date}"
+    'termination-general-partner-limited-partnership': "**Cessation of appointment** of general partner"
+    'termination-limited-partner-limited-partnership': "**Cessation of appointment** of limited partner"
     'termination-person-director-overseas-company-with-name-termination-date' : "**Termination of appointment** of {officer_name} as a director on {termination_date}"
     'termination-person-director-overseas-company-with-name' : "**Termination of appointment** of {officer_name} as a director"
     'termination-person-director-overseas-company' : "**Termination of appointment** of a director"
